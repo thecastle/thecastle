@@ -1,3 +1,10 @@
+:SETUP:
+#+DRAWERS: SETUP NOTES PROPERTIES
+#+TITLE: Sentimental Ramblings of an Early Club Member
+#+OPTIONS: num:nil tags:nil todo:nil H:2 toc:nil
+#+STARTUP: content indent
+:END:
+
 * Sentimental Ramblings of an Early Club Member
 by
 Kate Fowler or Kate Peek, to many

@@ -1,3 +1,10 @@
+:SETUP:
+#+DRAWERS: SETUP NOTES PROPERTIES
+#+TITLE: Bamford Edge
+#+OPTIONS: num:nil tags:nil todo:nil H:2 toc:nil
+#+STARTUP: content indent
+:END:
+
 * Bamford Edge
 by
 Jennifer Mellor

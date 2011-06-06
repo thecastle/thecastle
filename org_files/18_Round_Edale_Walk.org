@@ -1,4 +1,11 @@
-* Round Edale Walk    or "Who Went Where and Who Said What?"
+:SETUP:
+#+DRAWERS: SETUP NOTES PROPERTIES
+#+TITLE: Round Edale Walk
+#+OPTIONS: num:nil tags:nil todo:nil H:2 toc:nil
+#+STARTUP: content indent
+:END:
+
+* Round Edale Walk or "Who Went Where and Who Said What?"
 by
 Jack Ashcroft
 

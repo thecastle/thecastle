@@ -1,4 +1,11 @@
-* The Search for The Drunken Duck    or "Doesn't Anybody Want to Buy
+:SETUP:
+#+DRAWERS: SETUP NOTES PROPERTIES
+#+TITLE: The Search for The Drunken Duck
+#+OPTIONS: num:nil tags:nil todo:nil H:2 toc:nil
+#+STARTUP: content indent
+:END:
+
+* The Search for The Drunken Duck or "Doesn't Anybody Want to Buy
 Any Petrol?"
 by
 Alan Fowler

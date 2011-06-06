@@ -1,3 +1,10 @@
+:SETUP:
+#+DRAWERS: SETUP NOTES PROPERTIES
+#+TITLE: The Ascent of CMC Slab or Fighting off the Poachers
+#+OPTIONS: num:nil tags:nil todo:nil H:2 toc:nil
+#+STARTUP: content indent
+:END:
+
 * The Ascent of CMC Slab or Fighting off the Poachers
 
 by

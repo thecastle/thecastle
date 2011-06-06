@@ -1,3 +1,10 @@
+:SETUP:
+#+DRAWERS: SETUP NOTES PROPERTIES
+#+TITLE: Benighted on the Ben
+#+OPTIONS: num:nil tags:nil todo:nil H:2 toc:nil
+#+STARTUP: content indent
+:END:
+
 * Benighted on the Ben
 by
 Ian Barton
