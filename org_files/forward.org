@@ -1,3 +1,8 @@
+:SETUP:
+#+SETUPFILE: ./setup.org
+#+TITLE: Foreword.
+:END:
+
 * Alf Gregory.
 
 The chapters in this book will bring back many personal memories and make us think of the great days we have spent in the hills, for most of us have had mountain adventures we shall never forget. These might be toiling up the final slopes of Mount Everest, battling against wind and rain on Kinder Scout or leading a hard route on Lakeland rock.
