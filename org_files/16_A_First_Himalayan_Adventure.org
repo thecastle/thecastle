@@ -1,8 +1,6 @@
 :SETUP:
-#+DRAWERS: SETUP NOTES PROPERTIES
-#+TITLE: A First Himalayan Adventure
-#+OPTIONS: num:nil tags:nil todo:nil H:2 toc:nil
-#+STARTUP: content indent
+#+SETUPFILE: ./setup.org
+#+TITLE: A First Himalayan Adventure.
 :END:
 
 * A First Himalayan Adventure

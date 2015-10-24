@@ -1,8 +1,6 @@
 :SETUP:
-#+DRAWERS: SETUP NOTES PROPERTIES
-#+TITLE: Ridge Routes in the Land of The Rising Sun
-#+OPTIONS: num:nil tags:nil todo:nil H:2 toc:nil
-#+STARTUP: content indent
+#+SETUPFILE: ./setup.org
+#+TITLE: Ridge Routes in the Land of The Rising Sun.
 :END:
 
 * Ridge Routes in the Land of The Rising Sun

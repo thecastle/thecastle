@@ -1,8 +1,6 @@
 :SETUP:
-#+DRAWERS: SETUP NOTES PROPERTIES
+#+SETUPFILE: ./setup.org
 #+TITLE: Some Thoughts on Mountaineering
-#+OPTIONS: num:nil tags:nil todo:nil H:2 toc:nil
-#+STARTUP: content indent
 :END:
 
 * Some Thoughts on Mountaineering

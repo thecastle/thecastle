@@ -1,8 +1,7 @@
 :SETUP:
-#+DRAWERS: SETUP NOTES PROPERTIES
-#+TITLE: A Cautionary Winter's Tale
-#+OPTIONS: num:nil tags:nil todo:nil H:2 toc:nil
-#+STARTUP: content indent
+#+SETUPFILE: ./setup.org
+#+TITLE:
+#+TITLE: A Cautionary Winter's Tale.
 :END:
 
 * A Cautionary Winter's Tale

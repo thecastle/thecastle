@@ -1,3 +1,8 @@
+:SETUP:
+#+SETUPFILE: ./setup.org
+#+TITLE: The Munros a Personal Pilgrimage.
+:END:
+
 * The Munros a Personal Pilgrimage
 by
 Mike Jackson

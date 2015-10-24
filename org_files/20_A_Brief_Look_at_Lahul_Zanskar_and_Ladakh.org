@@ -1,8 +1,6 @@
 :SETUP:
-#+DRAWERS: SETUP NOTES PROPERTIES
-#+TITLE: A Brief Look at Lahul, Zanskar and Ladakh
-#+OPTIONS: num:nil tags:nil todo:nil H:2 toc:nil
-#+STARTUP: content indent
+#+SETUPFILE: ./setup.org
+#+TITLE: A Brief Look at Lahul, Zanskar and Ladakh.
 :END:
 
 * A Brief Look at Lahul, Zanskar and Ladakh

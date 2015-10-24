@@ -1,3 +1,8 @@
+:SETUP:
+#+SETUPFILE: ./setup.org
+#+TITLE: Two Weeks Older, Years Wiser.
+:END:
+
 * Two Weeks Older, Years Wiser
 by
 Claire Coates

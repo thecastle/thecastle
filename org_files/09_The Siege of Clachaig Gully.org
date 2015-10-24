@@ -1,8 +1,6 @@
 :SETUP:
-#+DRAWERS: SETUP NOTES PROPERTIES
-#+TITLE: The Siege of Clachaig Gully
-#+OPTIONS: num:nil tags:nil todo:nil H:2 toc:nil
-#+STARTUP: content indent
+#+SETUPFILE: ./setup.org
+#+TITLE: The Siege of Clachaig Gully.
 :END:
 
 * The Siege of Clachaig Gully

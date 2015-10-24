@@ -1,3 +1,8 @@
+:SETUP:
+#+SETUPFILE: ./setup.org
+#+TITLE: Boat Trip to the Western Highlands.
+:END:
+
 * Boat Trip to the Western Highlands
 by
 Mike Jackson

@@ -1,3 +1,8 @@
+:SETUP:
+#+SETUPFILE: ./setup.org
+#+TITLE: One for the Pot.
+:END:
+
 * One for the Pot
 by
 Martin Whitaker

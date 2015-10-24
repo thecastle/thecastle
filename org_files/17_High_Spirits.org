@@ -1,3 +1,8 @@
+:SETUP:
+#+SETUPFILE: ./setup.org
+#+TITLE: High Spirits.
+:END:
+
 * High Spirits
 by
 Steve France

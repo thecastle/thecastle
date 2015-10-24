@@ -1,3 +1,8 @@
+:SETUP:
+#+SETUPFILE: ./setup.org
+#+TITLE: Death Race 2000.
+:END:
+
 * Death Race 2000
 by
 Steve Ralph

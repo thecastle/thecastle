@@ -1,8 +1,6 @@
 :SETUP:
-#+DRAWERS: SETUP NOTES PROPERTIES
+#+SETUPFILE: ./setup.org
 #+TITLE:
-#+OPTIONS: num:nil tags:nil todo:nil H:2 toc:nil
-#+STARTUP: content indent
 :END:
 
 The Castle book was originally conceived as part of the Club's 25th

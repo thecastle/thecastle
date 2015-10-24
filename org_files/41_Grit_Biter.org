@@ -1,3 +1,8 @@
+:SETUP:
+#+SETUPFILE: ./setup.org
+#+TITLE: Grit Biter.
+:END:
+
 * Grit Biter
 by
 Frank Mellor

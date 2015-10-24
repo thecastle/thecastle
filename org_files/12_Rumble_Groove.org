@@ -1,3 +1,6 @@
+#+SETUPFILE: ./setup.org
+#+TITLE: Rumble Groove.
+
 * Rumble Groove
 by
 Marian Birkett

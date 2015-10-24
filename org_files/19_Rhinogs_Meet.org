@@ -1,8 +1,6 @@
 :SETUP:
-#+DRAWERS: SETUP NOTES PROPERTIES
+#+SETUPFILE: ./setup.org
 #+TITLE: Rhinogs Meet
-#+OPTIONS: num:nil tags:nil todo:nil H:2 toc:nil
-#+STARTUP: content indent
 :END:
 
 * Rhinogs Meet

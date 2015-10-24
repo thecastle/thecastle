@@ -1,8 +1,6 @@
 :SETUP:
-#+DRAWERS: SETUP NOTES PROPERTIES
-#+TITLE: The Founding of the Club.  by Mike Anderson
-#+OPTIONS: num:nil tags:nil todo:nil H:2 toc:nil
-#+STARTUP: content indent
+#+SETUPFILE: ./setup.org
+#+TITLE: The Founding of the Club.  by Mike Anderson.
 :END:
 
 * The Founding of the Club.  by Mike Anderson
