@@ -1,9 +1,10 @@
 :SETUP:
 #+TITLE: Setup File. Sets defaults for all files. Overwritten by setting in individual buffer.
+#+LANGUAGE:  en
 #+AUTHOR: Ian Barton.
 #+DRAWERS: SETUP NOTES PROPERTIES
 #+DATE: [2015-10-24 Sat 10:38]
 #+OPTIONS: num:nil tags:nil todo:nil H:2 toc:nil
 #+STARTUP: content indent
-
+#+LATEX_CLASS: book
 :END:
