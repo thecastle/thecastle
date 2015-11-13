@@ -1,14 +1,10 @@
 :SETUP:
 #+SETUPFILE: ./setup.org
-#+TITLE: The Clubroom Project.
 :END:
 
-* The Clubroom Project
 
-by
-
-Mike Anderson
-
+** The Clubroom Project
+\chapterauthor{by Mike Anderson}
 
 It was in early July 1969, after two years of frustrating
 and fruitless searching for a suitable clubroom, that Alec and

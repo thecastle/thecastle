@@ -1,13 +1,9 @@
 :SETUP:
 #+SETUPFILE: ./setup.org
-#+TITLE: Cairngorm Plateau Traverse.
 :END:
 
-* Cairngorm Plateau Traverse
-
-by
-
-Mike Jackson
+** Cairngorm Plateau Traverse
+#+latex: \chapterauthor{by Mike Jackson}
 
 
 An annual highlight in the early days of the CMC was the

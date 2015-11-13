@@ -1,9 +1,9 @@
 :SETUP:
 #+SETUPFILE: ./setup.org
-#+TITLE: The Founding of the Club.  by Mike Anderson.
 :END:
 
-* The Founding of the Club.  by Mike Anderson
+** The Founding of the Club.
+#+latex: \chapterauthor{by Mike Anderson}
 
 Langdale, 29th September 1967: torrential rain, the road flooded in
 several places, the campsite very much the same. Hardly an auspicious
