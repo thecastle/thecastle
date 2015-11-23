@@ -3,12 +3,7 @@
 :END:
 
 ** The Founding of the Club
-
-by
-
-Mike Anderson
-
-
+\chapterauthor{by }Mike Anderson
 Langdale, 29th September 1967: torrential rain, the  road
 flooded in several places, the campsite very much the same.
 Hardly an auspicious first meet for a new Club, but one that is
