@@ -1,0 +1,20 @@
+#+latex_class: koma-book
+#+LATEX_CLASS_OPTIONS: [a5paper,openany,font 10pt]
+#+latex_header: \makeatletter
+#+latex_header: \newcommand{\chapterauthor}[1]{%
+#+latex_header:   {\parindent0pt\vspace*{-5pt}%
+#+latex_header:   \linespread{1.1}\large\scshape#1%
+#+latex_header:   \par\nobreak\vspace*{35pt}}
+#+latex_header:   \@afterheading%
+#+latex_header: }
+#+latex_header: \makeatother
+
+
+
+
+#+TITLE: The Castle
+
+#+INCLUDE: ./03_The_Founding_of_the_Club.org
+#+INCLUDE: ./04_The_Clubroom_Project.org
+#+INCLUDE: ./05_Cairngorm_Plateau_Traverse.org
+#+LATEX: \tableofcontents
