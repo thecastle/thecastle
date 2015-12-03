@@ -1,6 +1,9 @@
 *~
 .#*
 \#*\#
-*.tex
-*.pdf
-*.ics
+*.log
+*.toc
+*.aux
+*.log
+*.out
+.directory
