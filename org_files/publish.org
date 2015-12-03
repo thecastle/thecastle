@@ -8,8 +8,11 @@
 #+latex_header:   \@afterheading%
 #+latex_header: }
 #+latex_header: \makeatother
-
-
+:
+NOTES:
+This file sets the default LaTex options for creating the pdf file.
+All the individual chapter files are INCLUDED by this file
+:END:
 
 
 #+TITLE: The Castle
