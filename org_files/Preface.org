@@ -5,11 +5,7 @@
 
 
 Preface
-
-by
-
-
-The Editors
+#+latex: \author{ byThe Editors}
 
 
 The Castle Mountaineering Club of Sheffield was founded in
