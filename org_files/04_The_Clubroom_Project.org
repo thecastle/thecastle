@@ -369,3 +369,11 @@ share the joys of climbing the crags and tackling the mountains.
 The foundations of The Castle Mountaineering Club have been
 well laid and with its unique features and the enthusiasm of its
 members, its future is clearly secure.
+
+#+CAPTION: This is the caption for the next figure link (or table)
+#+NAME:
+[file:Plan1.jpg]
+
+#+CAPTION: Another caption.
+#+NAME:
+[file:Plan2.jpg]
