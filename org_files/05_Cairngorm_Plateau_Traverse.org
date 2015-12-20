@@ -5,6 +5,9 @@
 ** Cairngorm Plateau Traverse
 #+latex: \chapterauthor{by Mike Jackson}
 
+#+CAPTION: Ben Macdui Beyond Loch Avon (Frank Mellor)
+#+NAME:
+[[file:Ben_Macdui.jpg]]
 
 An annual highlight in the early days of the CMC was the
 winter visit to the Cairngorms. For many members this was their
