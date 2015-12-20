@@ -1,0 +1,37 @@
+:SETUP:
+#+TITLE:
+#+AUTHOR: Ian Barton.
+#+STARTUP: content indent
+#+DATE: [2015-12-03 Thu 15:51]
+:END:
+The objective of this project is to re-publish the book that the
+Castle Mountaineering Club produced in 1988 to celebrate it's 21st
+anniversary in PDF and mobi format. This s intended to be part of the
+Club's 50th anniversary celebrations in 2017.
+
+The contributions for the book were originally written using
+WordPerfect and published by Sheaf Press in Sheffield. The text has
+been taken from the final draft , which was submitted to the
+publisher. The original WordPerfect files have been added to the
+repository for anyone who wants to see them. The photographs have all
+been scanned from a copy of the book.
+
+The WordPerfect files have all been converted into plain text format
+as Emacs org-mode files. Org-mode is used to export the book in either
+LaTex format or html.
+
+There are currently three git branches:
+
+- LaTex: the development branch for creating pdf files.
+- ePub: the development branch for outputting html which can be
+  converted into ePub or mobi files.
+- master: eventually both the LaTex and ePub branches will be merged
+  into master, so books in all supported formats can be created from a
+  single source.
+
+It should be possible to create the book in all the supported formats
+from the .tex and .html files.
+
+* Never Mind the Geek Stuff, I Just Want to Read the Book.
+- Download TheCastle.pdf for the pdf format.
+- Download TheCastle.mobi for the Kindle version (not currently available).
