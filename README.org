@@ -6,7 +6,7 @@
 :END:
 The objective of this project is to re-publish the book that the
 Castle Mountaineering Club produced in 1988 to celebrate it's 21st
-anniversary in PDF and mobi format. This s intended to be part of the
+anniversary in PDF and mobi format. This us intended to be part of the
 Club's 50th anniversary celebrations in 2017.
 
 The contributions for the book were originally written using
@@ -16,9 +16,10 @@ publisher. The original WordPerfect files have been added to the
 repository for anyone who wants to see them. The photographs have all
 been scanned from a copy of the book.
 
-The WordPerfect files have all been converted into plain text format
-as Emacs org-mode files. Org-mode is used to export the book in either
-LaTex format or html.
+I am using Emacs [[http://org-mode.org][org-mode]] to edit the files. All the article files
+are in plain text, making it easy for other people to re-use them. I
+ma using org-mode to export the project in both [[http://latex-project.org/][LaTeX]] (to produce pdf)
+and html (to produce mobi).
 
 There are currently three git branches:
 
@@ -29,9 +30,20 @@ There are currently three git branches:
   into master, so books in all supported formats can be created from a
   single source.
 
+Almost all of the development takes place in the LaTex and mobi branches.
+
 It should be possible to create the book in all the supported formats
 from the .tex and .html files.
 
 * Never Mind the Geek Stuff, I Just Want to Read the Book.
-- Download TheCastle.pdf for the pdf format.
-- Download TheCastle.mobi for the Kindle version (not currently available).
+The pdf version is available as [[https://github.com/thecastle/thecastle/blob/master/org_files/TheCastle.pdf][TheCastle.pdf]] . This is very much a
+work in progress and is regenerated every time the project is
+updated. At the moment I am just working on the first few chapters so
+I can finalize the details of the layout and insertion of the figures.
+
+For anyone who understands LaTeX you can edit the [[https://github.com/thecastle/thecastle/blob/master/org_files/TheCastle.tex][TheCastle.tex]] file
+to alter the appearance of the final document. I have chosen to use
+[[http://robjhyndman.com/hyndsight/xelatex/][XeLateX]] to generate the pdf file because it has better font handling
+than pdfLaTeX.
+
+Ian Barton.
