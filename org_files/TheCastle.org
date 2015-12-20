@@ -1,3 +1,7 @@
+:SETUP:
+#+SETUPFILE: ./setup.org
+:END:
+
 #+latex_class: koma-book
 #+LATEX_CLASS_OPTIONS: [a5paper,openany,font 10pt]
 #+latex_header: \makeatletter
@@ -8,6 +12,7 @@
 #+latex_header:   \@afterheading%
 #+latex_header: }
 #+latex_header: \makeatother
+#+latex_header: \graphicspath{{../images/cropped/}}
 :
 NOTES:
 This file sets the default LaTex options for creating the pdf file.
