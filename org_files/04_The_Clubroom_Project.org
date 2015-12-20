@@ -370,10 +370,14 @@ The foundations of The Castle Mountaineering Club have been
 well laid and with its unique features and the enthusiasm of its
 members, its future is clearly secure.
 
-#+CAPTION: This is the caption for the next figure link (or table)
+#+CAPTION: The Clubroom and Climbing Wall.
 #+NAME:
-[file:Plan1.jpg]
+[[file:Plan1.jpg]]
 
-#+CAPTION: Another caption.
+#+CAPTION: The Clubroom.
 #+NAME:
-[file:Plan2.jpg]
+[[file:Plan2.jpg]]
+
+#+CAPTION: Renovating the Clubroom.
+#+NAME:
+[[file:Cartoon_1.jpg]]
