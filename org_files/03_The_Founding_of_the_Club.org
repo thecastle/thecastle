@@ -4,9 +4,6 @@
 
 * The Founding of the Club.
 #+latex: \author{by Mike Anderson}
-
-[[file:~/Documents/emacs/thecastle/images/cropped/Ben_Macdui.jpg]
-
 Langdale, 29th September 1967: torrential rain, the road flooded in
 several places, the campsite very much the same. Hardly an auspicious
 first meet for a new Club, but one that is nevertheless still
