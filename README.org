@@ -47,3 +47,32 @@ to alter the appearance of the final document. I have chosen to use
 than pdfLaTeX.
 
 Ian Barton.
+
+* About The Castle Mountaineering Club.
+For more information about the Club please visit the [[http://castlemountineering.com][Castle Mountaineering
+Club]] website.
+
+* Feedback.
+
+
+* The Todo List.
+
+** TODO Optimize photo and graphic layout.
+
+** TODO Edit articles to re-instate italics that didn't come over the the WordPerfect conversion.
+
+** TODO Smart quotes.
+
+** TODO Choose a decent font .
+
+** TODO Fix Table of Contents so it looks better.
+
+** TODO Sort out frontmatter (intro, etc), backmatter and appendix.
+
+** TODO Create build script.
+Should allow anyone with a vanilla copy of Emacs to regenerate the Tex
+and pdf files.
+
+** TODO Start work on creating a Kindle book.
+
+** TODO Upload images.
