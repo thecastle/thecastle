@@ -53,7 +53,15 @@ For more information about the Club please visit the [[http://castlemountineerin
 Club]] website.
 
 * Feedback.
+Probably the best method of providing feedback is to create a new
+[[https://github.com/issues][issue]] on the Github website. I don't think you need to create an
+account on Github to create an issue. Alternatively you can email me
+at ian@wilkesley.net.
 
+* Did We Miss Something Out of the Original Book?
+If you have some new articles that you would like to be included in
+the book, please email them to me and I'll add them as an addendum
+Please note all contributions should be in plain text only!
 
 * The Todo List.
 
