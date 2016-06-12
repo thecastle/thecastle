@@ -4,10 +4,7 @@
 :END:
 
 * The Siege of Clachaig Gully
-
-by
-
-Alan Fowler
+#+latex: \chapterauthor{Alan Fowler}
 
 On one of the earliest Glencoe meets the sun actually shone
 on both the Saturday and the Sunday! Faced with the long drive

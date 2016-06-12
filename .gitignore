@@ -1,4 +1,10 @@
+
+*.*~
+.#*
+\#*\#
+*.log
+*.toc
 *.aux
 *.log
-*.*~
 *.out
+.directory

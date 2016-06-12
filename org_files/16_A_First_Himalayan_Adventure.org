@@ -4,9 +4,9 @@
 :END:
 
 * A First Himalayan Adventure
-Nanda Devi Sanctuary   September, October 1977
-by
-Charles Knowles
+
+** Nanda Devi Sanctuary   September, October 1977
+#+latex: \chapterauthor{Charles Knowles}
 
 The Nanda Devi Sanctuary is situated in the Garwhal Himalaya
 about two hundred miles north east of Delhi, twenty miles from

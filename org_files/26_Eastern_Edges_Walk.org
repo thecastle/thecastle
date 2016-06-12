@@ -4,8 +4,7 @@
 :END:
 
 * Eastern Edges Walk
-by
-Frank Mellor
+#+latex: \chapterauthor{Frank Mellor}
 
 The main body of walkers assembled at The Flouch Inn at half
 past eight on a dry but overcast Sunday morning. An advance party

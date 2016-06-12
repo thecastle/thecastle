@@ -4,8 +4,7 @@
 :END:
 
 * Falling Off
-by
-Mike Doyle
+#+latex: \chapterauthor{Mike Doyle}
 
 Climbing is all about getting up. The trick is to ascend
 vertically to the top with appropriate downward glances to check

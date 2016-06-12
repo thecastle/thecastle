@@ -4,8 +4,7 @@
 :END:
 
 * Route Major
-by
-Ian Barton
+#+latex: \chapterauthor{Ian Barton}
 
 The summer of 1986 was a good one in the Alps with a long
 period of settled weather early in the season. I was camping at

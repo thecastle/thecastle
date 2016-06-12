@@ -4,8 +4,7 @@
 :END:
 
 * Round Edale Walk or "Who Went Where and Who Said What?"
-by
-Jack Ashcroft
+#+latex: \chapterauthor{Jack Ashcroft}
 
 An innocent enough walk around Edale.
 "You can't get lost up there," was the bar room atmosphere

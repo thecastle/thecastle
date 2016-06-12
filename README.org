@@ -1,0 +1,86 @@
+:SETUP:
+#+TITLE:
+#+AUTHOR: Ian Barton.
+#+STARTUP: content indent
+#+DATE: [2015-12-03 Thu 15:51]
+:END:
+The objective of this project is to re-publish the book that the
+Castle Mountaineering Club produced in 1988 to celebrate it's 21st
+anniversary in PDF and mobi format. This us intended to be part of the
+Club's 50th anniversary celebrations in 2017.
+
+The contributions for the book were originally written using
+WordPerfect and published by Sheaf Press in Sheffield. The text has
+been taken from the final draft , which was submitted to the
+publisher. The original WordPerfect files have been added to the
+repository for anyone who wants to see them. The photographs have all
+been scanned from a copy of the book.
+
+I am using Emacs [[http://org-mode.org][org-mode]] to edit the files. All the article files
+are in plain text, making it easy for other people to re-use them. I
+ma using org-mode to export the project in both [[http://latex-project.org/][LaTeX]] (to produce pdf)
+and html (to produce mobi).
+
+There are currently three git branches:
+
+- LaTex: the development branch for creating pdf files.
+- ePub: the development branch for outputting html which can be
+  converted into ePub or mobi files.
+- master: eventually both the LaTex and ePub branches will be merged
+  into master, so books in all supported formats can be created from a
+  single source.
+
+Almost all of the development takes place in the LaTex and mobi branches.
+
+It should be possible to create the book in all the supported formats
+from the .tex and .html files.
+
+* Never Mind the Geek Stuff, I Just Want to Read the Book.
+The pdf version is available as [[https://github.com/thecastle/thecastle/blob/master/org_files/TheCastle.pdf][TheCastle.pdf]] . This is very much a
+work in progress and is regenerated every time the project is
+updated. At the moment I am just working on the first few chapters so
+I can finalize the details of the layout and insertion of the figures.
+
+For anyone who understands LaTeX you can edit the [[https://github.com/thecastle/thecastle/blob/master/org_files/TheCastle.tex][TheCastle.tex]] file
+to alter the appearance of the final document. I have chosen to use
+[[http://robjhyndman.com/hyndsight/xelatex/][XeLateX]] to generate the pdf file because it has better font handling
+than pdfLaTeX.
+
+Ian Barton.
+
+* About The Castle Mountaineering Club.
+For more information about the Club please visit the [[http://castlemountineering.com][Castle Mountaineering
+Club]] website.
+
+* Feedback.
+Probably the best method of providing feedback is to create a new
+[[https://github.com/issues][issue]] on the Github website. I don't think you need to create an
+account on Github to create an issue. Alternatively you can email me
+at ian@wilkesley.net.
+
+* Did We Miss Something Out of the Original Book?
+If you have some new articles that you would like to be included in
+the book, please email them to me and I'll add them as an addendum
+Please note all contributions should be in plain text only!
+
+* The Todo List.
+
+** TODO Optimize photo and graphic layout.
+
+** TODO Edit articles to re-instate italics that didn't come over the the WordPerfect conversion.
+
+** TODO Smart quotes.
+
+** TODO Choose a decent font .
+
+** TODO Fix Table of Contents so it looks better.
+
+** TODO Sort out frontmatter (intro, etc), backmatter and appendix.
+
+** TODO Create build script.
+Should allow anyone with a vanilla copy of Emacs to regenerate the Tex
+and pdf files.
+
+** TODO Start work on creating a Kindle book.
+
+** TODO Upload images.

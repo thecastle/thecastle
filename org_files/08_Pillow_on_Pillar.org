@@ -4,10 +4,7 @@
 :END:
 
 * Pillow on Pillar
-
-by
-
-Mary Peace
+#+latex: \chapterauthor{Mary Peace}
 
 
 Big Al had forgotten to bring the tent and we would have to

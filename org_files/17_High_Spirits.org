@@ -4,8 +4,7 @@
 :END:
 
 * High Spirits
-by
-Steve France
+#+latex: \chapterauthor{Steve France}
 
 Some years ago, whilst visiting the battle site of Culloden
 Field on a damp and misty September day, I was subjected to a

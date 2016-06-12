@@ -4,8 +4,7 @@
 :END:
 
 * Traverse of the Cuillin Ridge
-by
-Andy Smith
+#+latex: \chapterauthor{Andy Smith}
 
 We roused ourselves from our brief but comfortable bivouac
 on the  Bealach a' Gharbh Choire, the pale dawn heralding a

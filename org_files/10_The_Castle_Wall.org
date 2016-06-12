@@ -5,10 +5,7 @@
 :END:
 
 * The Castle Wall
-
-by
-
-Steve France
+#+latex: \chapterauthor{Steve France}
 
 Indoor climbing walls have long provided both amusement and bemusement
 to climbers and spectators alike. The Castle climbing creation is no

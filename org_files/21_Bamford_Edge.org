@@ -4,8 +4,7 @@
 :END:
 
 * Bamford Edge
-by
-Jennifer Mellor
+#+latex: \chapterauthor{Jennifer Mellor}
 
 It was all happening at Bamford Edge on Sunday. Club climbers hard men
 from seventeen to sixty seven were out in force. The weather was warm

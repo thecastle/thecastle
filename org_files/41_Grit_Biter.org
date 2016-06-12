@@ -4,8 +4,7 @@
 :END:
 
 * Grit Biter
-by
-Frank Mellor
+#+latex: \chapterauthor{Frank Mellor}
 
 
 In the summer of '86 siege tactics were employed on a
