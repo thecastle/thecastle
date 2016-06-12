@@ -4,8 +4,7 @@
 :END:
 
 * Ridge Routes in the Land of The Rising Sun
-by
-Dave Kime
+#+latex: \chapterauthor{Dave Kime}
 
 This area had long been neglected by the Club, although
 older members could recall long days spent hacking through ivy on

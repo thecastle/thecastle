@@ -4,8 +4,7 @@
 :END:
 
 * One for the Pot
-by
-Martin Whitaker
+#+latex: \chapterauthor{Martin Whitaker}
 
 Caving as a Club activity, first got on the official meets
 list in winter 1983 84, though some members had "dabbled" some

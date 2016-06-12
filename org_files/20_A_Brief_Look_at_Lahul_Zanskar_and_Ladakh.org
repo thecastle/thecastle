@@ -4,8 +4,7 @@
 :END:
 
 * A Brief Look at Lahul, Zanskar and Ladakh
-by
-Jack Ashcroft
+#+latex: \chapterauthor{Jack Ashcroft}
 
 If you glance at a map of the Himalaya, extending across to
 the north of India, it is approximately 900 miles between Godwin

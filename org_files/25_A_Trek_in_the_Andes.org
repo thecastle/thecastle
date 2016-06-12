@@ -4,8 +4,7 @@
 :END:
 
 * A Trek in the Andes
-by
-Bob Madeley
+#+latex: \chapterauthor{Bob Madeley}
 
 The Cordillera Blanca in the Peruvian Andes is one of the
 most beautiful mountain ranges in the world, with peaks reaching

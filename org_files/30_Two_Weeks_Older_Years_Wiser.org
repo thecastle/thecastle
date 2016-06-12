@@ -4,8 +4,7 @@
 :END:
 
 * Two Weeks Older, Years Wiser
-by
-Claire Coates
+#+latex: \chapterauthor{Claire Coates}
 
 Sitting in the warmth and comfort of my home, Alpine
 adventure seems very far away indeed. Knowing the tricks that

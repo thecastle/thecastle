@@ -4,8 +4,7 @@
 :END:
 
 * Rhinogs Meet
-by
-Frank Mellor
+#+latex: \chapterauthor{Frank Mellor}
 
 Arriving at Dinas Farm in the early evening of Friday I was
 surprised to see Sean, Mel and family already prospecting for a

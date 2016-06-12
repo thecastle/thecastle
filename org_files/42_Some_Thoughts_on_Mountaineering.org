@@ -4,8 +4,7 @@
 :END:
 
 * Some Thoughts on Mountaineering
-by
-Alec Barclay
+#+latex: \chapterauthor{Alec Barclay}
 
 Why climb mountains? This is a question which has been asked
 so many times over and is one to which it is difficult to give a

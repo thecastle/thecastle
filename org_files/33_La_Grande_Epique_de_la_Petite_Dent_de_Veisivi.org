@@ -3,9 +3,8 @@
 #+TITLE: La Grande Epique de la Petite Dent de Veisivi.
 :END:
 
-La Grande Epique de la Petite Dent de Veisivi
-by
-Les Alpinistes Poetiques
+* La Grande Epique de la Petite Dent de Veisivi
+#+latex: \chapterauthor{Les Alpinistes Poetiques}
 
      A cautionary tale of the Western Pennine Alps, to be read
      aloud in an accent appropriate to that well-known Russian

@@ -4,8 +4,7 @@
 :END:
 
 * Welsh Rarebit
-by
-Steve France
+#+latex: \chapterauthor{Steve France}
 
 Bill Hine was spread out on the back seat clutching his
 mouth in a desperate attempt not to laugh, as I stood outside the

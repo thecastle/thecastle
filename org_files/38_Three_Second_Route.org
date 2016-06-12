@@ -4,8 +4,7 @@
 :END:
 
 * A Three Second Route
-by
-Marian Birkett
+#+latex: \chapterauthor{Marian Birkett}
 
 A summer evening's gritstone climbing   what more could you
 ask for? Hilary and I walked up to the "Unconquerable" area of
@@ -22,7 +21,7 @@ overlaps. The next bit, a sort of awkward lay away, is the crux
 after that, big holds up the final steep section lead to the top.
 
 I unpacked my sack. I'd just bought some new rock boots,
-B3s, only  25  I can't resist a bargain!  but I hadn't tried them
+B3s, only  £25  I can't resist a bargain!  but I hadn't tried them
 out yet. Lisa was amazed that I was going to wear them for the
 first time on this particular climb. I reasoned that they had to
 be better than my Crag Rats and that I needed all the help I

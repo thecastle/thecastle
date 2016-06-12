@@ -4,10 +4,7 @@
 :END:
 
 * The Ascent of CMC Slab or Fighting off the Poachers
-
-by
-
-Alan Fowler
+#+latex: \chapterauthor{Alan Fowler}
 
 
 In the Derwent Area guide, tucked in amongst the extremes on Froggatt

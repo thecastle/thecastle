@@ -4,8 +4,7 @@
 :END:
 
 * The Munros a Personal Pilgrimage
-by
-Mike Jackson
+#+latex: \chapterauthor{Mike Jackson}
 
 A number of small groups tackled the last few hundred feet
 of ascent over slabby rock pavements and areas of stone and

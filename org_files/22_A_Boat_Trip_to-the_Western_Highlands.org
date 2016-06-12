@@ -4,8 +4,7 @@
 :END:
 
 * Boat Trip to the Western Highlands
-by
-Mike Jackson
+#+latex: \chapterauthor{Mike Jackson}
 
 It was July 1983, time at last for our long planned visit to
 the "Rough Bounds" of Knoydart, especially significant for Jim
