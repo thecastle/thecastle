@@ -12,6 +12,7 @@
      above the Arolla valley, Aiguille de t'Csar.
 
 
+#+begin_verse
 
 "The Dent de Veisivi's an excellent climb"
 Read JB from out of his book
@@ -217,5 +218,7 @@ So don't write a poem to add to folklore
 Unless you have nothing to do,
 For each verse will take you ten minutes or more,
 And this one is verse forty-two.
+
+#+end_verse
 
 Arolla, 4-8 August 1987
