@@ -1,3 +1,4 @@
+#+TITLE: Licence File.
 The Castle by the Castle Mountainering Club is licensed under a Creative
 Commons Attribution-NonCommercial-NoDerivatives 4.0 International [[https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode][Licence]].
 
