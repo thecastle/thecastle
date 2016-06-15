@@ -2,7 +2,7 @@
 #+TITLE: Rumble Groove.
 
 * Rumble Groove
-#+latex: \chapterauthor{Marian Birkett}
+#+latex: \chapterauthor{by Marian Birkett}
 
 What do I remember about The Castle? Well it's people, days
 out climbing, for instance days with Dave, well known for his
