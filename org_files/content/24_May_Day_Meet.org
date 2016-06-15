@@ -4,7 +4,7 @@
 :END:
 
 * May Day Meet
-#+latex: \chapterauthor{Martin Whitaker
+#+latex: \chapterauthor{by Martin Whitaker}
 
 "Esoteric" may well describe some of the rock climbs in the
 Central Wales Dolgellau area and the selection that the weather
