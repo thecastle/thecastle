@@ -1,5 +1,5 @@
 :SETUP:
-#+SETUPFILE: ./setup.org
+
 #+TITLE: The Castle.
 :END:
 
