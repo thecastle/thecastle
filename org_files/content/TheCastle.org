@@ -1,5 +1,11 @@
 :SETUP:
-
+#+LANGUAGE:  en
+#+AUTHOR: Ian Barton.
+#+DRAWERS: SETUP NOTES PROPERTIES
+#+DATE: [2015-10-24 Sat 10:38]
+#+OPTIONS: num:t tags:nil todo:nil H:2 toc:t author:nil date:nil d:nil title:t
+#+STARTUP: content indent
+#+EXCLUDE_TAGS: noexport
 #+TITLE: The Castle.
 :END:
 
