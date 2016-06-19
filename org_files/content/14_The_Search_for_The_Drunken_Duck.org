@@ -49,3 +49,6 @@ given. u  A further five minutes and the fourth and final car arrived.
 As this car drove off the now soaking attendant was heard to
 cry in an agonised voice:
 "Doesn't  Anybody  Want to Buy Any Petrol?"
+#+CAPTION: The Search for the Drunken Duck.
+#+NAME:
+[[file:./images/Cartoon_04.jpg]]

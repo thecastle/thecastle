@@ -220,3 +220,6 @@ experien ces in the Alps I felt inspired and challenged by those
 awesome tales, not intimidated and frightened. Perhaps those
 tricks of time and memory have won after all. Or perhaps that's
 the magic of mountaineering.
+#+CAPTION: Mont Blanc de Tacul
+#+NAME:
+[[file:./images/Mon_Blanc_de_Tacul.jpg]]

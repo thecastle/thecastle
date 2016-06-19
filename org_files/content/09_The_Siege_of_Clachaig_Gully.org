@@ -58,3 +58,6 @@ transgression was removed.
 The Scots were left to climb the pitch by their own devices,
 giving us enough time to implement our escape in the best Castle
 traditions of tact, diplomacy... and self preservation.
+#+CAPTION: The Siege of Clachaig Gully
+#+NAME:
+[[file:./images/Cartoon_02.jpg]

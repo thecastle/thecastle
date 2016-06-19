@@ -135,3 +135,23 @@ Spike Wally   VS  and Lisa, Pippa and Marian formed a Cordee
 Feminine for  The Diagonal   Severe  and  Siesta   Severe . A good
 time was had by all and by all accounts we had better weather in
 Wales than was to be had in the Peak   can you believe that?
+
+#+CAPTION: May Day Meet
+#+NAME:
+[[file:./images/Cartoon_06.jpg]]
+
+#+CAPTION: The Hard Women
+#+NAME:
+[[file:./images/Cartoon_07.jpg]]
+
+#+CAPTION: Julian Jones on Acheron Cwm Cywarch
+#+NAME:
+[[file:./images/Julian_Jones_on_Acheron_Cwm_Cywarch.jpg]]
+
+#+CAPTION: Steve Hartland on Sirplum Cheedale
+#+NAME:
+[[file:./images/Steve_Hartland_on_Sirplum_Cheedale.jpg]]
+
+#+CAPTION: Everest
+#+NAME:
+[[file:./images/Everest.jpg]]

@@ -87,3 +87,10 @@ Let's get a runner in   don't want to do that again. Suddenly,
 there I was at the top, a slight breeze trying to blow away the
 midges. Up came Hilary and Lisa, congratulating me. My first E1
 on grit. Maybe I'll do one properly some day.
+#+CAPTION: Autumn at Stanage
+#+NAME:
+[[file:./images/Autumn_Stanage.jpg]]
+
+#+CAPTION: On The Mamore Ridge
+#+NAME:
+[[file:./images/On_the_Mamore_Ridge.jpg]]

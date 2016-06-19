@@ -32,3 +32,6 @@ towards Gun Buttress, doing climbs on the way, and the afternoon
 finished with some pleasant easy soloing on the shorter routes at that
 end of the Edge.  We went home tired and happy after the kind of
 Sunday one dreams about in the depths of winter.
+#+CAPTION: Bamford Edge from Ladybower
+#+NAME:
+[[file:./images/Bamford_Edge_from_Ladybower.jpg]]

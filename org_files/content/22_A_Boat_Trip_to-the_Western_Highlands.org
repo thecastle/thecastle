@@ -277,3 +277,6 @@ conditions had enabled us to enjoy the experience to the full.
 The combination of the "Jackie" and the wild hills of Knoydart
 and Rhum had proved an inspiration as rewarding as any, a meet
 none of us could never forget.
+#+CAPTION: Ben_Sgitheall_from_Loch_Hourn
+#+NAME:
+[[file:./images/Ben_Sgitheall_from_Loch_Hourn.jpg]]

@@ -211,3 +211,6 @@ future development, particularly in relation to tourism. The
 signs of rapid progress are already there and I hope that the
 mountaineering fraternity will observe the rules.
 Have you purchased your "Ladakh Zanskar" guide book yet?
+#+CAPTION: Base Camp Below Kang Yissay Ladakh
+#+NAME:
+[[file:./images/Base_camp_below_Kang_Yissay_Ladakh.jpg]]

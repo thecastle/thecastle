@@ -76,3 +76,6 @@ taken ten hours for the walk, arriving a good half hour before
 opening time. A vote of thanks was offered to Jack as we waited,
 shivering in the freezing cold evening with only one hip flask of
 Grouse between nineteen.
+#+CAPTION: The Salt Cellar Derwent Edge
+#+NAME:
+[[file:./images/The_Salt_Cellar_Derwent_Edge.jpg]]

@@ -136,3 +136,10 @@ space!
 Once outside, the fresh air was, as always, welcoming   even
 though it was still raining. It was very satisfying to know that
 the walkers would undoubtedly have got wet too.
+#+CAPTION: Castle Members in Giants Cave
+#+NAME:
+[[file:./images/Castle_Members_in_Giants_Cave.jpg]]
+
+#+CAPTION: One for the Pot
+#+NAME:
+[[file:./images/Cartoon_10.jpg]]

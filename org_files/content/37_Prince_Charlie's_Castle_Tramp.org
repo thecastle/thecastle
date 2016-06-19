@@ -142,3 +142,6 @@ When there's nothing left to tick and the last table of the
 Scottish hundred footers has been put away, you can always invent
 a walk though the glens to see you into your Seventies. Castle
 memories await you there.
+#+CAPTION: Summit of Ben Avon Cairngorms
+#+NAME:
+[[file:./images/Summit_of_Ben_Avon_Cairngorms.jpg]]

@@ -3,7 +3,6 @@
 #+TITLE: The Clubroom Project.
 :END:
 
-
 ** The Clubroom Project
 \chapterauthor{by Mike Anderson}
 
@@ -373,12 +372,12 @@ members, its future is clearly secure.
 
 #+CAPTION: The Clubroom and Climbing Wall.
 #+NAME:
-[[file:Plan1.jpg]]
+[[./images/Plan1.jpg]]
 
 #+CAPTION: The Clubroom.
 #+NAME:
-[[file:Plan2.jpg]]
+[[./images/Plan2.jpg]]
 
 #+CAPTION: Renovating the Clubroom.
 #+NAME:
-[[file:Cartoon_1.jpg]]
+[[./images/Cartoon_01.jpg]]

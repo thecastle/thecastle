@@ -1,6 +1,5 @@
 :SETUP:
 #+SETUPFILE: ./setup.org
-#+TITLE:
 #+TITLE: The Castle Wall.
 :END:
 
@@ -57,3 +56,6 @@ lurid coloured tights and headband. Please also remember that the use
 of chalk is forbidden!
 
 Good Luck.
+#+CAPTION: The Castle Wall
+#+NAME:
+[[file:./images/Cartoon_03.jpg]]

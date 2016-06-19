@@ -60,3 +60,7 @@ Thus CMC Slab entered the history books as "A rather artificial climb
 using the stances and protection of Heather Wall ". I see that they've
 squeezed another route in further left.  It must have been climbed by
 a very thin man so as not to overlap CMC Slab !
+
+#+CAPTION: Claire Coates on CMC Slab.
+#+NAME:
+[[file:./images/Claire_Coates_on_CMC_Slab.jpg]]
