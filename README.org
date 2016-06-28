@@ -36,7 +36,7 @@ It should be possible to create the book in all the supported formats
 from the .tex and .html files.
 
 * Never Mind the Geek Stuff, I Just Want to Read the Book.
-The pdf version is available as [[https://github.com/thecastle/thecastle/blob/master/org_files/content/TheCastle.pdf][TheCastle.pdf]] . This is very much a
+The pdf version is available as [[https://drive.google.com/file/d/0B5zS0RKOunXLRmttSXFUc25SODA/view?usp=sharing]] . This is very much a
 work in progress and is regenerated every time the project is
 updated. At the moment I am just working on the first few chapters so
 I can finalize the details of the layout and insertion of the figures.
