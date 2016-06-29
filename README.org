@@ -48,6 +48,21 @@ than pdfLaTeX.
 
 Ian Barton.
 
+** [2016-06-29 Wed] Update.
+I have imported all the text, photos and cartoons. There seem to be
+problems downloading the pdf from Github, so the download link now
+points to Google Drive.
+
+I have chosen to format the book as A5, as this was the way it was
+originally published. The current pdf should look more or less like
+the original paper version. There is quite a bit of work to do on
+getting the photos/cartoons to mimic the original layout
+properly. Also I need to proof read the text and fix things like quote
+and italics.
+
+If you find any problems you can either create an Issue on Github (I
+think you need to create an account to do this) or  [[mailto:ian@manor-farm.org.][email]].
+
 * About The Castle Mountaineering Club.
 For more information about the Club please visit the [[http://castlemountineering.com][Castle Mountaineering
 Club]] website.
