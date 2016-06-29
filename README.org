@@ -61,7 +61,7 @@ properly. Also I need to proof read the text and fix things like quote
 and italics.
 
 If you find any problems you can either create an Issue on Github (I
-think you need to create an account to do this) or  [[mailto:ian@manor-farm.org.][email]].
+think you need to create an account to do this) or  [[mailto:ian@manor-farm.org.][email]] me.
 
 * About The Castle Mountaineering Club.
 For more information about the Club please visit the [[http://castlemountineering.com][Castle Mountaineering
