@@ -124,4 +124,4 @@ like me, after twenty years of CMC membership and enjoy as many
 wonderful memories and as many good friends.
 #+CAPTION: Dave Dunk on Marmoset Stanage Edge
 #+NAME:
-[[file:./images/Dave_Dunk_on_Marmoset_Stanage_Edge.jpg]]
+[[file:.././images/Dave_Dunk_on_Marmoset_Stanage_Edge.jpg]]

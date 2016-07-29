@@ -78,4 +78,4 @@ shivering in the freezing cold evening with only one hip flask of
 Grouse between nineteen.
 #+CAPTION: The Salt Cellar Derwent Edge
 #+NAME:
-[[file:./images/The_Salt_Cellar_Derwent_Edge.jpg]]
+[[file:.././images/The_Salt_Cellar_Derwent_Edge.jpg]]

@@ -199,8 +199,8 @@ there are still lots of beautiful, interesting and remote places
 to visit in the Garwhal Himalaya.
 #+CAPTION: Nanda Devi from the Rishi Ganga
 #+NAME:
-[[file:./images/Nanda_Devi_from_Rishi_Ganga.jpg]]
+[[file:.././images/Nanda_Devi_from_Rishi_Ganga.jpg]]
 
 #+CAPTION: Nanda Devi from_within the Sanctuary
 #+NAME:
-[[file:./images/Nanda_Devi_from_within_the_Sanctuary.jpg]]
+[[file:.././images/Nanda_Devi_from_within_the_Sanctuary.jpg]]

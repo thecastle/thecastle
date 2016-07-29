@@ -224,20 +224,20 @@ And this one is verse forty-two.
 Arolla, 4-8 August 1987
 #+CAPTION: La Grande Epique
 #+NAME:
-[[file:./images/Cartoon_11.jpg]]
+[[file:.././images/Cartoon_11.jpg]]
 
 #+CAPTION: La Grande Epique
 #+NAME:
-[[file:./images/Cartoon_12.jpg]]
+[[file:.././images/Cartoon_12.jpg]]
 
 #+CAPTION: La Grande Epique
 #+NAME:
-[[file:./images/Cartoon_13.jpg]]
+[[file:.././images/Cartoon_13.jpg]]
 
 #+CAPTION: La Grande Epique
 #+NAME:
-[[file:./images/Cartoon_14.jpg]]
+[[file:.././images/Cartoon_14.jpg]]
 
 #+CAPTION: La Grande Epique
 #+NAME:
-[[file:./images/Cartoon_15.jpg]]
+[[file:.././images/Cartoon_15.jpg]]

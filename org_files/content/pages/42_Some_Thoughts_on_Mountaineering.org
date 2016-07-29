@@ -79,4 +79,4 @@ altars of snow and vaults of purple traversed by the continual
 stars."
 #+CAPTION: Some Thoughts on Mountaineering
 #+NAME:
-[[file:./images/Cartoon_16.jpg]]
+[[file:.././images/Cartoon_16.jpg]]

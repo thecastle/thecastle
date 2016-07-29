@@ -222,4 +222,4 @@ tricks of time and memory have won after all. Or perhaps that's
 the magic of mountaineering.
 #+CAPTION: Mont Blanc de Tacul
 #+NAME:
-[[file:./images/Mon_Blanc_de_Tacul.jpg]]
+[[file:.././images/Mon_Blanc_de_Tacul.jpg]]

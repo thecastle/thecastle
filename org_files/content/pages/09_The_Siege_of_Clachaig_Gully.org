@@ -60,4 +60,4 @@ giving us enough time to implement our escape in the best Castle
 traditions of tact, diplomacy... and self preservation.
 #+CAPTION: The Siege of Clachaig Gully
 #+NAME:
-[[file:./images/Cartoon_02.jpg]
+[[file:.././images/Cartoon_02.jpg]

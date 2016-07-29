@@ -162,4 +162,4 @@ us and made us all cups of tea!"
 There's no justice.
 #+CAPTION: Benighted on the Ben
 #+NAME:
-[[file:./images/Cartoon_05.jpg]]
+[[file:.././images/Cartoon_05.jpg]]

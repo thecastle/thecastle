@@ -34,4 +34,4 @@ end of the Edge.  We went home tired and happy after the kind of
 Sunday one dreams about in the depths of winter.
 #+CAPTION: Bamford Edge from Ladybower
 #+NAME:
-[[file:./images/Bamford_Edge_from_Ladybower.jpg]]
+[[file:.././images/Bamford_Edge_from_Ladybower.jpg]]

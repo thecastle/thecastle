@@ -248,4 +248,4 @@ the time we should have been climbing the Buttress had we left
 the hut when we had originally planned.
 #+CAPTION: Chris Wright at Water cum Jolley
 #+NAME:
-[[file:./images/Chris_Wright_at_Water_cum_Jolley.jpg]]
+[[file:.././images/Chris_Wright_at_Water_cum_Jolley.jpg]]

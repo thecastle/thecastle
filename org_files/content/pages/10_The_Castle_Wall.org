@@ -58,4 +58,4 @@ of chalk is forbidden!
 Good Luck.
 #+CAPTION: The Castle Wall
 #+NAME:
-[[file:./images/Cartoon_03.jpg]]
+[[file:.././images/Cartoon_03.jpg]]

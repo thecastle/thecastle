@@ -51,4 +51,4 @@ cry in an agonised voice:
 "Doesn't  Anybody  Want to Buy Any Petrol?"
 #+CAPTION: The Search for the Drunken Duck.
 #+NAME:
-[[file:./images/Cartoon_04.jpg]]
+[[file:.././images/Cartoon_04.jpg]]

@@ -213,4 +213,4 @@ mountaineering fraternity will observe the rules.
 Have you purchased your "Ladakh Zanskar" guide book yet?
 #+CAPTION: Base Camp Below Kang Yissay Ladakh
 #+NAME:
-[[file:./images/Base_camp_below_Kang_Yissay_Ladakh.jpg]]
+[[file:.././images/Base_camp_below_Kang_Yissay_Ladakh.jpg]]

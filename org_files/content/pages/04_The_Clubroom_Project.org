@@ -372,12 +372,12 @@ members, its future is clearly secure.
 
 #+CAPTION: The Clubroom and Climbing Wall.
 #+NAME:
-[[./images/Plan1.jpg]]
+[[.././images/Plan1.jpg]]
 
 #+CAPTION: The Clubroom.
 #+NAME:
-[[./images/Plan2.jpg]]
+[[.././images/Plan2.jpg]]
 
 #+CAPTION: Renovating the Clubroom.
 #+NAME:
-[[./images/Cartoon_01.jpg]]
+[[.././images/Cartoon_01.jpg]]

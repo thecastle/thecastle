@@ -63,4 +63,4 @@ a very thin man so as not to overlap CMC Slab !
 
 #+CAPTION: Claire Coates on CMC Slab.
 #+NAME:
-[[file:./images/Claire_Coates_on_CMC_Slab.jpg]]
+[[file:.././images/Claire_Coates_on_CMC_Slab.jpg]]

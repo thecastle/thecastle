@@ -279,4 +279,4 @@ and Rhum had proved an inspiration as rewarding as any, a meet
 none of us could never forget.
 #+CAPTION: Ben Sgitheall from Loch Hourn
 #+NAME:
-[[file:./images/Ben_Sgitheall_from_Loch_Hourn.jpg]]
+[[file:.././images/Ben_Sgitheall_from_Loch_Hourn.jpg]]

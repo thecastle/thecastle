@@ -4,7 +4,7 @@
 :END:
 
 
-* The Founding of the Club.
+** The Founding of the Club.
 #+latex: \author{by Mike Anderson}
 Langdale, 29th September 1967: torrential rain, the road flooded in
 several places, the campsite very much the same. Hardly an auspicious
@@ -13,7 +13,6 @@ flourishing twenty one years later. All members of the Club have since
 experienced similar discomforts, with the additional attractions of
 cold, hail, sleet and snow. Now at last we can reveal where the
 responsibility lies.
-
 Alec Barclay came from across the Border to seek satisfaction for
 causes long gone: at least that is what we put it down to when we were
 induced to go to Scotland and elsewhere to be tortured by long walks

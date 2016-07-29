@@ -155,6 +155,6 @@ would have strangled her!
 
 #+CAPTION: Devil's Slide Lundy
 #+NAME:
-[[file:./images/Devils_Slide_Lundy.jpg]]
+[[file:.././images/Devils_Slide_Lundy.jpg]]
 
 Missing photo: First Pitch Devils Slide.
