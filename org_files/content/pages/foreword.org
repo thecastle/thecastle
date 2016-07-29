@@ -1,10 +1,11 @@
 :SETUP:
 #+SETUPFILE: ./setup.org
 #+TITLE: Foreword.
+#+OPTIONS: title:nil
 :END:
 
-* Alf Gregory.
-
+* Foreword
+#+latex: \chapterauthor{Alf Gregory}
 The chapters in this book will bring back many personal memories and
 make us think of the great days we have spent in the hills, for most
 of us have had mountain adventures we shall never forget. These might
