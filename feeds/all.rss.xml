@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Castle Mountaineering Club.</title><link>http://localhost:8100/</link><description></description><atom:link href="http://localhost:8100/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 12 Sep 2016 15:00:47 -0000</lastBuildDate></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Castle Mountaineering Club.</title><link>http://thecastle.github.io/thecastle/</link><description></description><atom:link href="http://thecastle.github.io/thecastle/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 12 Sep 2016 18:14:24 -0000</lastBuildDate></channel></rss>
