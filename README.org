@@ -64,8 +64,8 @@ If you find any problems you can either create an Issue on Github (I
 think you need to create an account to do this) or  [[mailto:ian@manor-farm.org.][email]] me.
 
 * About The Castle Mountaineering Club.
-For more information about the Club please visit the [[http://castlemountineering.com][Castle Mountaineering
-Club]] website.
+For more information about the Club please visit the [[http://castlemountaineering.com/][Castle
+Mountaineering Club]] website.
 
 * Feedback.
 Probably the best method of providing feedback is to create a new
