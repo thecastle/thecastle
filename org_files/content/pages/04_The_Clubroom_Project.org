@@ -4,7 +4,7 @@
 :END:
 
 ** The Clubroom Project
-\chapterauthor{by Mike Anderson}
+#+latex: \chapterauthor{by Mike Anderson}
 
 It was in early July 1969, after two years of frustrating
 and fruitless searching for a suitable clubroom, that Alec and
