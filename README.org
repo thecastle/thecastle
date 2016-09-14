@@ -48,6 +48,10 @@ than pdfLaTeX.
 
 Ian Barton.
 
+** [2016-09-14 Wed] Work Started on the Web Version.
+You can see the web version at [[http://thecastle.github.io/thecastle][The Castle]]. This is in the early stages
+of development, so expect things to be broken/changed. However, you
+should be able to browse all the articles and photos from the original book.
 ** [2016-06-29 Wed] Update.
 I have imported all the text, photos and cartoons. There seem to be
 problems downloading the pdf from Github, so the download link now
