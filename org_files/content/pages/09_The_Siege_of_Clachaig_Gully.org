@@ -6,6 +6,14 @@
 * The Siege of Clachaig Gully
 #+latex: \chapterauthor{Alan Fowler}
 
+
+#+begin_html
+<p>
+<em>by Alan Fowler</em>
+</p>
+#+end_html
+
+
 On one of the earliest Glencoe meets the sun actually shone
 on both the Saturday and the Sunday! Faced with the long drive
 home that night, a group of us looked for a climb which didn't

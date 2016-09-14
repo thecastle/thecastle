@@ -4,6 +4,13 @@
 * Rumble Groove
 #+latex: \chapterauthor{by Marian Birkett}
 
+
+#+begin_html
+<p>
+<em>by Marian Birkett</em>
+</p>
+#+end_html
+
 What do I remember about The Castle? Well it's people, days
 out climbing, for instance days with Dave, well known for his
 enthusiasm for climbing anything, anytime   although preferably a

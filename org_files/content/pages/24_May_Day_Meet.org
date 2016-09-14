@@ -6,6 +6,13 @@
 * May Day Meet
 #+latex: \chapterauthor{by Martin Whitaker}
 
+
+#+begin_html
+<p>
+<em>by Martin Whitaker</em>
+</p>
+#+end_html
+
 "Esoteric" may well describe some of the rock climbs in the
 Central Wales Dolgellau area and the selection that the weather
 permitted us to savour over the May Day Bank Holiday ranged from

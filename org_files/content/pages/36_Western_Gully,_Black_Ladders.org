@@ -6,6 +6,13 @@
 * Western Gully, Black Ladders
 #+latex: \chapterauthor{Ian Barton}
 
+
+#+begin_html
+<p>
+<em>by Ian Barton</em>
+</p>
+#+end_html
+
 "This is going to be a straightforward climb with no epics
 or benightments. I've done the route before, it's grade IV and we
 are going to make a really early start, so there is no chance of

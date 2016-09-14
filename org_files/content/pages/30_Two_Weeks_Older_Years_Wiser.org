@@ -6,6 +6,13 @@
 * Two Weeks Older, Years Wiser
 #+latex: \chapterauthor{Claire Coates}
 
+
+#+begin_html
+<p>
+<em>by Claire Coates</em>
+</p>
+#+end_html
+
 Sitting in the warmth and comfort of my home, Alpine
 adventure seems very far away indeed. Knowing the tricks that
 memory and time can play, on countless occasions in the Alps last

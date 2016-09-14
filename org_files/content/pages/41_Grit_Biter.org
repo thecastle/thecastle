@@ -7,6 +7,13 @@
 #+latex: \chapterauthor{Frank Mellor}
 
 
+#+begin_html
+<p>
+<em>by Frank Mellor</em>
+</p>
+#+end_html
+
+
 In the summer of '86 siege tactics were employed on a
 twenty foot route at Stanage. Although the attempt was
 unsuccessful the style in which it was made inspired this poetic

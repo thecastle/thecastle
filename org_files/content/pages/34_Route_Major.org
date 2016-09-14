@@ -6,6 +6,13 @@
 * Route Major
 #+latex: \chapterauthor{Ian Barton}
 
+
+#+begin_html
+<p>
+<em>by Ian Barton</em>
+</p>
+#+end_html
+
 The summer of 1986 was a good one in the Alps with a long
 period of settled weather early in the season. I was camping at
 Pierre d'Orthaz opposite the infamous Snell's Field. Unlike

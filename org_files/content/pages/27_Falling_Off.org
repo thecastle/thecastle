@@ -6,6 +6,13 @@
 * Falling Off
 #+latex: \chapterauthor{Mike Doyle}
 
+
+#+begin_html
+<p>
+<em>by Mike Doyle</em>
+</p>
+#+end_html
+
 Climbing is all about getting up. The trick is to ascend
 vertically to the top with appropriate downward glances to check
 the placement of the feet on foot holds, but without downward

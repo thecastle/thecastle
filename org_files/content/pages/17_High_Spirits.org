@@ -6,6 +6,13 @@
 * High Spirits
 #+latex: \chapterauthor{Steve France}
 
+
+#+begin_html
+<p>
+<em>by Steve France</em>
+</p>
+#+end_html
+
 Some years ago, whilst visiting the battle site of Culloden
 Field on a damp and misty September day, I was subjected to a
 feeling of utter dread.  Subconscious emotions told me, "You must

@@ -6,6 +6,13 @@
 * Rhinogs Meet
 #+latex: \chapterauthor{Frank Mellor}
 
+
+#+begin_html
+<p>
+<em>by Frank Mellor</em>
+</p>
+#+end_html
+
 Arriving at Dinas Farm in the early evening of Friday I was
 surprised to see Sean, Mel and family already prospecting for a
 good pitch. We had pinched an extra day to climb on Tryfan and

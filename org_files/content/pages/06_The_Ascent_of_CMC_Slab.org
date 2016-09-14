@@ -7,6 +7,12 @@
 #+latex: \chapterauthor{Alan Fowler}
 
 
+#+begin_html
+<p>
+<em>by Alan Fowler</em>
+</p>
+#+end_html
+
 In the Derwent Area guide, tucked in amongst the extremes on Froggatt
 Edge, is a climb with the name CMC Slab . Yes, it's named after your
 very own Castle Mountaineering Club. It came into being in the dim and
