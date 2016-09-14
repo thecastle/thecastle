@@ -4,7 +4,14 @@
 :END:
 
 * Sentimental Ramblings of an Early Club Member
-#+latex: \chapterauthor{EKate Fowler or Kate Peek, to many}
+#+latex: \chapterauthor{Kate Fowler or Kate Peek, to many}
+
+
+#+begin_html
+<p>
+<em>by Kate Fowler or Kate Peek, to many</em>
+</p>
+#+end_html
 
 The last time I visited The Castle Mountaineering Club
 clubroom was in August 1986, during a hectic trip to England to

@@ -6,6 +6,13 @@
 * From Toothbrush to Sledgehammer
 #+latex: \chapterauthor{Steve France}
 
+
+#+begin_html
+<p>
+<em>by Steve France</em>
+</p>
+#+end_html
+
 The winter of 1985 86 was The Castle Mountaineering Club's
 biggest climbing triumph - yet not many members know the true
 extent of the Club's success. More new routes were claimed on one

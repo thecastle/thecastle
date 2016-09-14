@@ -6,6 +6,14 @@
 * The Lundy Experience
 #+latex: \chapterauthor{Steve France}
 
+
+#+begin_html
+<p>
+<em>by Steve France</em>
+</p>
+#+end_html
+
+
 Sailing across the bobbing sea towards Lundy, we thought we
 were so clever!
 

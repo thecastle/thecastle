@@ -6,6 +6,13 @@
 * Ridge Routes in the Land of The Rising Sun
 #+latex: \chapterauthor{Dave Kime}
 
+
+#+begin_html
+<p>
+<em>by Dave Kime</em>
+</p>
+#+end_html
+
 This area had long been neglected by the Club, although
 older members could recall long days spent hacking through ivy on
 exposed ridges and ascents of swaying trees. Spurred on by these

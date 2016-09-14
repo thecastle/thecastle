@@ -6,6 +6,13 @@
 * Boat Trip to the Western Highlands
 #+latex: \chapterauthor{Mike Jackson}
 
+
+#+begin_html
+<p>
+<em>by Mike Jackson</em>
+</p>
+#+end_html
+
 It was July 1983, time at last for our long planned visit to
 the "Rough Bounds" of Knoydart, especially significant for Jim
 Thomson since he was to complete his Munro trail in this remote

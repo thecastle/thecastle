@@ -6,6 +6,13 @@
 * Traverse of the Cuillin Ridge
 #+latex: \chapterauthor{Andy Smith}
 
+
+#+begin_html
+<p>
+<em>by Andy Smith</em>
+</p>
+#+end_html
+
 We roused ourselves from our brief but comfortable bivouac
 on the  Bealach a' Gharbh Choire, the pale dawn heralding a
 perfect Skye day.  Way below us to the east we could see that

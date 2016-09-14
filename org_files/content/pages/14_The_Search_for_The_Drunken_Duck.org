@@ -6,6 +6,14 @@
 * The Search for The Drunken Duck or "Doesn't Anybody Want to Buy Any Petrol?"
 #+latex: \chapterauthor{Alan Fowler}
 
+
+#+begin_html
+<p>
+<em>by Alan Fowler</em>
+</p>
+#+end_html
+
+
 It was a fairly typical weekend in Langdale. It had rained
 on and off  more on than off  all Saturday. Some of us had
 convincingly demonstrated that one could get just as wet in half

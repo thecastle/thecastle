@@ -6,6 +6,13 @@
 * Benighted on the Ben
 #+latex: \chapterauthor{Ian Barton}
 
+
+#+begin_html
+<p>
+<em>by Ian Barton</em>
+</p>
+#+end_html
+
 It was early January when six of us travelled up to
 Scotland. Arriving in Glencoe in the small hours, we crept into the
 bunkhouse at The Kingshouse and collapsed on the floor intending to

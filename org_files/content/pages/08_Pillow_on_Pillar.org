@@ -7,6 +7,12 @@
 #+latex: \chapterauthor{Mary Peace}
 
 
+#+begin_html
+<p>
+<em>by Mary Peace</em>
+</p>
+#+end_html
+
 Big Al had forgotten to bring the tent and we would have to
 collect it on the way although this meant travelling fifteen
 miles in the wrong direction. As we managed to miss the correct

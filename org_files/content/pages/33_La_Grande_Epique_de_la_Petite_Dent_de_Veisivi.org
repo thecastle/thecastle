@@ -6,6 +6,13 @@
 * La Grande Epique de la Petite Dent de Veisivi
 #+latex: \chapterauthor{Les Alpinistes Poetiques}
 
+
+#+begin_html
+<p>
+<em>by John Barnard</em>
+</p>
+#+end_html
+
      A cautionary tale of the Western Pennine Alps, to be read
      aloud in an accent appropriate to that well-known Russian
      Yorkshireman  pretender to the throne , now resident high

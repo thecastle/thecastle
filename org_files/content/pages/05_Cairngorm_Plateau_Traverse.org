@@ -6,6 +6,12 @@
 ** Cairngorm Plateau Traverse
 #+latex: \chapterauthor{by Mike Jackson}
 
+#+begin_html
+<p>
+<em>by Mike Jackson</em>
+</p>
+#+end_html
+
 #+CAPTION: Ben Macdui Beyond Loch Avon (Frank Mellor)
 #+NAME:
 [[file:.././images/Ben_Macdui.jpg]]

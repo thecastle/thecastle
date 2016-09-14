@@ -6,6 +6,13 @@
 * Prince Charlie's Castle Tramp
 #+latex: \chapterauthor{Dave Kime}
 
+
+#+begin_html
+<p>
+<em>by Dave Kime</em>
+</p>
+#+end_html
+
 The idea was dreamed up in Culra Bothy on a dark November
 night. The parents-in-law were in New Zealand and had taken to
 backpacking and bothying. Soon they were to retire, so what

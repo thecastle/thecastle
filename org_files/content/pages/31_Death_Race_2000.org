@@ -6,6 +6,13 @@
 * Death Race 2000
 #+latex: \chapterauthor{Steve Ralph}
 
+
+#+begin_html
+<p>
+<em>by Steve Ralph</em>
+</p>
+#+end_html
+
 "The Karakoram Highway is like a cassette tape strewn across
 a building site"   Robin Dennell.
 
