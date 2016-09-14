@@ -19,7 +19,7 @@
 #+latex_header:   \@afterheading%
 #+latex_header: }
 #+latex_header: \makeatother
-#+latex_header: \graphicspath{{../images/cropped/}}
+#+latex_header: \graphicspath{{../../images/}}
 #+latex_header: \usepackage{hyperref}
 #+latex_header: \hypersetup{
 #+latex_header:     colorlinks,
@@ -28,12 +28,18 @@
 #+latex_header:     linkcolor=blue,
 #+latex_header:     urlcolor=black
 #+latex_header: }
+#+latex_header: .\includepdf{/home/ian/Documents/emacs/thecastle/images/frontcover.pdf}
+#+latex_header: \includepdf{cover}
 
 :NOTES:
 This file sets the default LaTex options for creating the pdf file.
 All the individual chapter files are INCLUDED by this file
+Pictures to scan:
+- Devil's Slide
+- Lahul
 :END:
 
+#+INCLUDE: ./foreword.org
 #+INCLUDE: ./03_The_Founding_of_the_Club.org
 #+INCLUDE: ./04_The_Clubroom_Project.org
 #+INCLUDE: ./05_Cairngorm_Plateau_Traverse.org
