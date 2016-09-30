@@ -52,4 +52,4 @@ PLUGINS = ['summary', 'org_reader']
 READERS = {'org': "org_reader"}
 ORG_READER_EMACS_LOCATION = '/usr/bin/emacs'
 
-IGNORE_FILES = ['.~', 'setup.org', 'LICENCE.org']
+IGNORE_FILES = ['.~', 'setup.org', 'LICENCE.org', 'TheCastle.org']
