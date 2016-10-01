@@ -9,7 +9,7 @@
 
 #+begin_html
 <p>
-<em>Mike Anderson</em>
+<em>by Mike Anderson</em>
 </p>
 #+end_html
 
