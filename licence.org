@@ -4,6 +4,6 @@
 #+STARTUP: content indent
 #+DATE: [2016-10-03 Mon 08:50]
 :END:
-The content is of the book is licenced under the [[https://creativecommons.org/licenses/by-nc-nd/4.0/][Creative Commons
+The content is of the book is licenced under the [Creative Commons
 Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND
-4.0)] licence.
+4.0)] licence([https://creativecommons.org/licenses/by-nc-nd/4.0/) .
