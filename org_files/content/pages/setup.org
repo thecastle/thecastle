@@ -16,6 +16,7 @@ Sets the default options for the chapter files.
 - ROUTE MAJOR photo should be landscape.
 - PRINCE CHARLIE'S CASTLE TRAMP - photo should be landscape.
 - A Three Second Route - photo should be landscape.
+- Grit Biter not formatted as verse.
 
 
 :END:
