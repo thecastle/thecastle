@@ -8,3 +8,5 @@
 *.log
 *.out
 .directory
+/pelican/blog/content
+/images/frontcover.pdf
