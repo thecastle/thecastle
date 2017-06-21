@@ -7,11 +7,11 @@
 #+latex: \chapterauthor{Steve France}
 
 
-#+begin_html
+#+begin_export html
 <p>
 <em>by Steve France</em>
 </p>
-#+end_html
+#+end_export
 
 Indoor climbing walls have long provided both amusement and bemusement
 to climbers and spectators alike. The Castle climbing creation is no

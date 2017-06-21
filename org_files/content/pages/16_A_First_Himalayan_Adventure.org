@@ -9,11 +9,11 @@
 #+latex: \chapterauthor{Charles Knowles}
 
 
-#+begin_html
+#+begin_export html
 <p>
 <em>by Charles Knowles</em>
 </p>
-#+end_html
+#+end_export
 
 The Nanda Devi Sanctuary is situated in the Garwhal Himalaya
 about two hundred miles north east of Delhi, twenty miles from

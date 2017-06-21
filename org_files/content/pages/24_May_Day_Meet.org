@@ -7,11 +7,11 @@
 #+latex: \chapterauthor{by Martin Whitaker}
 
 
-#+begin_html
+#+begin_export html
 <p>
 <em>by Martin Whitaker</em>
 </p>
-#+end_html
+#+end_export
 
 "Esoteric" may well describe some of the rock climbs in the
 Central Wales Dolgellau area and the selection that the weather

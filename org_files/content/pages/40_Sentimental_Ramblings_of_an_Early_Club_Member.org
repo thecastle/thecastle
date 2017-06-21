@@ -7,11 +7,11 @@
 #+latex: \chapterauthor{Kate Fowler or Kate Peek, to many}
 
 
-#+begin_html
+#+begin_export html
 <p>
 <em>by Kate Fowler or Kate Peek, to many</em>
 </p>
-#+end_html
+#+end_export
 
 The last time I visited The Castle Mountaineering Club
 clubroom was in August 1986, during a hectic trip to England to

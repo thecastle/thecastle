@@ -7,11 +7,11 @@
 #+latex: \chapterauthor{Frank Mellor}
 
 
-#+begin_html
+#+begin_export html
 <p>
 <em>by Frank Mellor</em>
 </p>
-#+end_html
+#+end_export
 
 Arriving at Dinas Farm in the early evening of Friday I was
 surprised to see Sean, Mel and family already prospecting for a

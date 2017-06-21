@@ -7,11 +7,11 @@
 #+latex: \chapterauthor{Alan Fowler}
 
 
-#+begin_html
+#+begin_export html
 <p>
 <em>by Alan Fowler</em>
 </p>
-#+end_html
+#+end_export
 
 
 On one of the earliest Glencoe meets the sun actually shone

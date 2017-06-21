@@ -7,11 +7,11 @@
 #+latex: \chapterauthor{Ian Barton}
 
 
-#+begin_html
+#+begin_export html
 <p>
 <em>by Ian Barton</em>
 </p>
-#+end_html
+#+end_export
 
 "This is going to be a straightforward climb with no epics
 or benightments. I've done the route before, it's grade IV and we

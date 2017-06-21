@@ -7,11 +7,11 @@
 #+latex: \chapterauthor{Alec Barclay}
 
 
-#+begin_html
+#+begin_export html
 <p>
 <em>by Alec Barclay</em>
 </p>
-#+end_html
+#+end_export
 
 Why climb mountains? This is a question which has been asked
 so many times over and is one to which it is difficult to give a

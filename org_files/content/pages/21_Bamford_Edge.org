@@ -7,11 +7,11 @@
 #+latex: \chapterauthor{Jennifer Mellor}
 
 
-#+begin_html
+#+begin_export html
 <p>
 <em>by Jennifer Mellor</em>
 </p>
-#+end_html
+#+end_export
 
 It was all happening at Bamford Edge on Sunday. Club climbers hard men
 from seventeen to sixty seven were out in force. The weather was warm

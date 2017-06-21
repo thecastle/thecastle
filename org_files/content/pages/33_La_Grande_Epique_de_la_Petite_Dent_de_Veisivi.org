@@ -7,11 +7,11 @@
 #+latex: \chapterauthor{Les Alpinistes Poetiques}
 
 
-#+begin_html
+#+begin_export html
 <p>
 <em>by John Barnard</em>
 </p>
-#+end_html
+#+end_export
 
      A cautionary tale of the Western Pennine Alps, to be read
      aloud in an accent appropriate to that well-known Russian

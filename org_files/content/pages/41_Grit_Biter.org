@@ -7,11 +7,11 @@
 #+latex: \chapterauthor{Frank Mellor}
 
 
-#+begin_html
+#+begin_export html
 <p>
 <em>by Frank Mellor</em>
 </p>
-#+end_html
+#+end_export
 
 
 In the summer of '86 siege tactics were employed on a

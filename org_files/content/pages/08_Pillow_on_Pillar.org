@@ -7,11 +7,11 @@
 #+latex: \chapterauthor{Mary Peace}
 
 
-#+begin_html
+#+begin_export html
 <p>
 <em>by Mary Peace</em>
 </p>
-#+end_html
+#+end_export
 
 Big Al had forgotten to bring the tent and we would have to
 collect it on the way although this meant travelling fifteen

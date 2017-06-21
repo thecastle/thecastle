@@ -7,11 +7,11 @@
 #+latex: \chapterauthor{Andy Smith}
 
 
-#+begin_html
+#+begin_export html
 <p>
 <em>by Andy Smith</em>
 </p>
-#+end_html
+#+end_export
 
 We roused ourselves from our brief but comfortable bivouac
 on the  Bealach a' Gharbh Choire, the pale dawn heralding a

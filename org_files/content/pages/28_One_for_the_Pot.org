@@ -7,11 +7,11 @@
 #+latex: \chapterauthor{Martin Whitaker}
 
 
-#+begin_html
+#+begin_export html
 <p>
 <em>by Steve France</em>
 </p>
-#+end_html
+#+end_export
 
 Caving as a Club activity, first got on the official meets
 list in winter 1983 84, though some members had "dabbled" some

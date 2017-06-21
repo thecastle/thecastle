@@ -7,11 +7,11 @@
 #+latex: \chapterauthor{Claire Coates}
 
 
-#+begin_html
+#+begin_export html
 <p>
 <em>by Claire Coates</em>
 </p>
-#+end_html
+#+end_export
 
 Sitting in the warmth and comfort of my home, Alpine
 adventure seems very far away indeed. Knowing the tricks that

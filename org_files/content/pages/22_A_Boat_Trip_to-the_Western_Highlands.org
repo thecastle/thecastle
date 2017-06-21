@@ -7,11 +7,11 @@
 #+latex: \chapterauthor{Mike Jackson}
 
 
-#+begin_html
+#+begin_export html
 <p>
 <em>by Mike Jackson</em>
 </p>
-#+end_html
+#+end_export
 
 It was July 1983, time at last for our long planned visit to
 the "Rough Bounds" of Knoydart, especially significant for Jim

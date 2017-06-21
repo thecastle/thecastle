@@ -7,11 +7,11 @@
 #+latex: \chapterauthor{Jack Ashcroft}
 
 
-#+begin_html
+#+begin_export html
 <p>
 <em>by Jack Ashcroft</em>
 </p>
-#+end_html
+#+end_export
 
 If you glance at a map of the Himalaya, extending across to
 the north of India, it is approximately 900 miles between Godwin

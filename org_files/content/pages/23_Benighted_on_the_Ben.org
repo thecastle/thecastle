@@ -7,11 +7,11 @@
 #+latex: \chapterauthor{Ian Barton}
 
 
-#+begin_html
+#+begin_export html
 <p>
 <em>by Ian Barton</em>
 </p>
-#+end_html
+#+end_export
 
 It was early January when six of us travelled up to
 Scotland. Arriving in Glencoe in the small hours, we crept into the

@@ -7,11 +7,11 @@
 #+latex: \chapterauthor{Alan Fowler}
 
 
-#+begin_html
+#+begin_export html
 <p>
 <em>by Alan Fowler</em>
 </p>
-#+end_html
+#+end_export
 
 
 It was a fairly typical weekend in Langdale. It had rained

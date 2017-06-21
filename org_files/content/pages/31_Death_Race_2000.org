@@ -7,11 +7,11 @@
 #+latex: \chapterauthor{Steve Ralph}
 
 
-#+begin_html
+#+begin_export html
 <p>
 <em>by Steve Ralph</em>
 </p>
-#+end_html
+#+end_export
 
 "The Karakoram Highway is like a cassette tape strewn across
 a building site"   Robin Dennell.

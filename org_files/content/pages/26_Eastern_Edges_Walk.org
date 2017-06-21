@@ -7,11 +7,11 @@
 #+latex: \chapterauthor{Frank Mellor}
 
 
-#+begin_html
+#+begin_export html
 <p>
 <em>by Frank Mellor</em>
 </p>
-#+end_html
+#+end_export
 
 The main body of walkers assembled at The Flouch Inn at half
 past eight on a dry but overcast Sunday morning. An advance party

@@ -7,11 +7,11 @@
 #+latex: \chapterauthor{Bob Madeley}
 
 
-#+begin_html
+#+begin_export html
 <p>
 <em>by Bob Madeley</em>
 </p>
-#+end_html
+#+end_export
 
 The Cordillera Blanca in the Peruvian Andes is one of the
 most beautiful mountain ranges in the world, with peaks reaching

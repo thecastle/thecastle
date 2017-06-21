@@ -7,11 +7,11 @@
 #+latex: \chapterauthor{Mike Doyle}
 
 
-#+begin_html
+#+begin_export html
 <p>
 <em>by Mike Doyle</em>
 </p>
-#+end_html
+#+end_export
 
 Climbing is all about getting up. The trick is to ascend
 vertically to the top with appropriate downward glances to check

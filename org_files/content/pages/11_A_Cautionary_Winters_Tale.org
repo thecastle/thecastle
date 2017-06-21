@@ -8,11 +8,11 @@
 #+latex: \chapterauthor{Dave Kime}
 
 
-#+begin_html
+#+begin_export html
 <p>
 <em>by Dave Kime</em>
 </p>
-#+end_html
+#+end_export
 
 It was the Club's Easter Meet in Glenshee 1978. Base camp
 was established at our now traditional wild campsite by the

@@ -7,11 +7,11 @@
 #+latex: \chapterauthor{Steve France}
 
 
-#+begin_html
+#+begin_export html
 <p>
 <em>by Steve France</em>
 </p>
-#+end_html
+#+end_export
 
 Bill Hine was spread out on the back seat clutching his
 mouth in a desperate attempt not to laugh, as I stood outside the

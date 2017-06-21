@@ -7,11 +7,11 @@
 #+latex: \chapterauthor{Dave Kime}
 
 
-#+begin_html
+#+begin_export html
 <p>
 <em>by Dave Kime</em>
 </p>
-#+end_html
+#+end_export
 
 The idea was dreamed up in Culra Bothy on a dark November
 night. The parents-in-law were in New Zealand and had taken to
