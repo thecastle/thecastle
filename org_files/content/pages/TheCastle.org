@@ -3,7 +3,7 @@
 #+AUTHOR: Ian Barton.
 #+DRAWERS: SETUP NOTES PROPERTIES
 #+DATE: [2015-10-24 Sat 10:38]
-#+OPTIONS: num:t tags:nil todo:nil H:2 toc:t author:nil date:nil d:nil title:t TeX:t LaTeX:t
+#+OPTIONS: num:t tags:nil todo:nil H:2 toc:1 author:nil date:nil d:nil title:t
 #+STARTUP: content indent
 #+EXCLUDE_TAGS: noexport
 #+TITLE: The Castle.
@@ -21,6 +21,7 @@
 #+latex_header: \makeatother
 #+latex_header: \graphicspath{{../../images/}}
 #+latex_header: \usepackage{hyperref}
+#+latex_header: \usepackage{pdfpages}
 #+latex_header: \hypersetup{
 #+latex_header:     colorlinks,
 #+latex_header:     citecolor=black,
@@ -28,8 +29,6 @@
 #+latex_header:     linkcolor=blue,
 #+latex_header:     urlcolor=black
 #+latex_header: }
-#+latex_header: .\includepdf{/home/ian/Documents/emacs/thecastle/images/frontcover.pdf}
-#+latex_header: \includepdf{cover}
 
 :NOTES:
 This file sets the default LaTex options for creating the pdf file.
@@ -37,6 +36,28 @@ All the individual chapter files are INCLUDED by this file
 Pictures to scan:
 - Devil's Slide
 - Lahul
+
+Fix:
+the Bhyunder Valley "The Valley of the Flowers" visited by
+Frank Smythe in
+1. We followed
+
+in Chapter 15.
+
+Figure 15.2: Nanda Devi from within the Sanctuary needs rotating.
+
+Check formatting in "Round Edale Walk or "Who Went Where and Who Said
+What?"".
+
+Rotate image of "Salt Cellar".
+
+Rotate image "Mt Blanc de Tacul".
+
+Formatting in "La Grande Epique de la Petite Dent de Veisivi".
+
+Rotate image "Chris Wright...".
+
+Rotate image "Summit of Ben Avon".
 :END:
 
 #+INCLUDE: ./01_foreword.org
@@ -81,7 +102,7 @@ Pictures to scan:
 #+INCLUDE: ./40_Sentimental_Ramblings_of_an_Early_Club_Member.org
 #+INCLUDE: ./41_Grit_Biter.org
 #+INCLUDE: ./42_Some_Thoughts_on_Mountaineering.org
-
+#+INCLUDE: ./Chronological_list_of_officers.org
 * List of Latex References.                                   :noexport:
 - http://tex.stackexchange.com/questions/156862/displaying-author-for-each-chapter-in-book
 - https://www.sharelatex.com/learn/Positioning_images_and_tables
