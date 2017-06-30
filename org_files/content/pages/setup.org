@@ -9,14 +9,5 @@
 :END:
 
 :NOTES:
-Sets the default options for the chapter files.
-
-- Eastern Edges Walk photo should be landscape.
-- TWO WEEKS OLDER, YEARS WISER photo should be landscape.
-- ROUTE MAJOR photo should be landscape.
-- PRINCE CHARLIE'S CASTLE TRAMP - photo should be landscape.
-- A Three Second Route - photo should be landscape.
-- Grit Biter not formatted as verse.
-
 
 :END:
