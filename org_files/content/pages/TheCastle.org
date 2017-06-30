@@ -33,31 +33,7 @@
 :NOTES:
 This file sets the default LaTex options for creating the pdf file.
 All the individual chapter files are INCLUDED by this file
-* TODO Pictures to scan:
-- Devil's Slide
-- Lahul
-* TODO Fix:
-the Bhyunder Valley "The Valley of the Flowers" visited by
-Frank Smythe in
-1. We followed
-* TODO in Chapter 15: Figure 15.2: Nanda Devi from within the Sanctuary needs rotating.
-* TODO Check formatting in "Round Edale Walk or "Who Went Where and Who Said What?"".
-* TODO Rotate image of "Salt Cellar".
-* TODO Rotate image "Mt Blanc de Tacul".
-* TODO Formatting in "La Grande Epique de la Petite Dent de Veisivi".
-* TODO Rotate image "Chris Wright...".
-* TODO Rotate image "Summit of Ben Avon".
-* TODO Sets the default options for the chapter files.
-* TODO Eastern Edges Walk photo should be landscape.
-* TODO TWO WEEKS OLDER, YEARS WISER photo should be landscape.
-* TODO ROUTE MAJOR photo should be landscape.
-* TODO PRINCE CHARLIE'S CASTLE TRAMP - photo should be landscape.
-* TODO A Three Second Route - photo should be landscape.
-* TODO Grit Biter not formatted as verse
-
-
 :END:
-
 #+INCLUDE: ./01_foreword.org
 #+INCLUDE: ./02_Preface.org
 #+INCLUDE: ./03_The_Founding_of_the_Club.org
@@ -101,6 +77,33 @@ Frank Smythe in
 #+INCLUDE: ./41_Grit_Biter.org
 #+INCLUDE: ./42_Some_Thoughts_on_Mountaineering.org
 #+INCLUDE: ./Chronological_list_of_officers.org
+
+
+* ToDo List. :noexport:
+** TODO Pictures to scan:
+- Devil's Slide
+- Lahul
+** TODO Fix:
+the Bhyunder Valley "The Valley of the Flowers" visited by
+Frank Smythe in
+1. We followed
+** TODO in Chapter 15: Figure 15.2: Nanda Devi from within the Sanctuary needs rotating.
+** TODO Check formatting in "Round Edale Walk or "Who Went Where and Who Said What?"".
+** TODO Rotate image of "Salt Cellar".
+** TODO Rotate image "Mt Blanc de Tacul".
+** TODO Formatting in "La Grande Epique de la Petite Dent de Veisivi".
+** TODO Rotate image "Chris Wright...".
+** TODO Rotate image "Summit of Ben Avon".
+** TODO Sets the default options for the chapter files.
+** TODO Eastern Edges Walk photo should be landscape.
+** TODO TWO WEEKS OLDER, YEARS WISER photo should be landscape.
+** TODO ROUTE MAJOR photo should be landscape.
+** TODO PRINCE CHARLIE'S CASTLE TRAMP - photo should be landscape.
+** TODO A Three Second Route - photo should be landscape.
+** TODO Grit Biter not formatted as verse
+
+
+
 * List of Latex References.                                   :noexport:
 - http://tex.stackexchange.com/questions/156862/displaying-author-for-each-chapter-in-book
 - https://www.sharelatex.com/learn/Positioning_images_and_tables
