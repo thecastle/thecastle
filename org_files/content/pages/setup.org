@@ -3,7 +3,7 @@
 #+AUTHOR: Ian Barton.
 #+DRAWERS: SETUP NOTES PROPERTIES
 #+DATE: [2015-10-24 Sat 10:38]
-#+OPTIONS: num:nil tags:nil todo:nil H:2 toc:nil author:nil date:nil d:nil title:nil ':t
+#+OPTIONS: num:nil tags:nil todo:nil H:2 toc:1 author:nil date:nil d:nil title:nil ':t
 #+STARTUP: content indent
 #+EXCLUDE_TAGS: noexport
 :END:
