@@ -77,7 +77,7 @@ All the individual chapter files are INCLUDED by this file
 #+INCLUDE: ./41_Grit_Biter.org
 #+INCLUDE: ./42_Some_Thoughts_on_Mountaineering.org
 #+INCLUDE: ./Chronological_list_of_officers.org
-
+#+INCLUDE: ./Acknowledgements.org
 
 * ToDo List. :noexport:
 ** TODO Pictures to scan:
