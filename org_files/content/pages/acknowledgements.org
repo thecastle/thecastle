@@ -1,0 +1,40 @@
+:SETUP:
+#+SETUPFILE: ./setup.org
+#+TITLE: Acknowledgements.
+:END:
+
+The Castle Mountaineering Club editors would like to thank the
+following people who have all contributed in one way or another to the
+production of this book. Our apologies are due to anyone whose name we
+may have inadvertently omitted.
+
+| E. Allen       | D. Kime        |
+| M. Allen       | T. Knight      |
+| M. Anderson    | C. Knowles     |
+| J. Ashcroft    | C. Landsown    |
+| A. Barclay     | B. Madeley     |
+| I. Barton      | H. Maslan      |
+| J. Barnard     | Marisma        |
+| J. Belton      | L. McLeish     |
+| Blacks         | F. Mellor      |
+| V. Boyd        | J. Mellor      |
+| K. Brooksbank  | T. Mellor      |
+| J. Clennell    | D. Menzies     |
+| C. Coates      | D. Morrison    |
+| T. Cooper      | Outside        |
+| M. Doyle       | M. Peace       |
+| J. Evans       | P. Peace       |
+| L. Evans       | D. Pendlenbury |
+| A. Fowler      | A. Poetiques   |
+| K. Fowler      | A. Ralph       |
+| S. France      | J. Rogerson    |
+| C. Gibson      | A. Smith       |
+| P. Gibson      | D. Smith       |
+| P. Goodlad     | J. Starey      |
+| P. Goodlad     | B. Stokes      |
+| A. Gregory     | J. Thompson    |
+| Hitch 'n' Hike | S. Truelove    |
+| M. Jackson     | A. Turner      |
+| M. Jennings    | M. Whitaker    |
+| A. Jennings    | H. Woodcock    |
+|                | Woodcock Group |
