@@ -4,13 +4,14 @@
 #+DRAWERS: SETUP NOTES PROPERTIES
 #+DATE: 2017-06-22]
 #+OPTIONS: num:t tags:nil todo:nil H:2 toc:t author:nil date:nil d:nil title:t
+#+OPTIONS: html-style:nil
 #+STARTUP: content indent
 #+EXCLUDE_TAGS: noexport
 #+TITLE: The Castle.
 #+UID:5d1d46a3-79c9-4065-b6ba-ae6ce7bfe09a
 :END:
-
-
+:PROPERTY:
+:EPUBSTYLE: ./epub_stylesheet.css
 :END:
 
 #+INCLUDE: ./01_foreword.org
