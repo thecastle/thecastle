@@ -1,6 +1,7 @@
 :SETUP:
 #+TITLE:
 #+AUTHOR: Ian Barton.
+#+TODO: TODO(t) DONE(@/!) STARTED(@/!) CANCELED(@/!)
 #+STARTUP: content indent
 #+DATE: [2015-12-03 Thu 15:51]
 :END:
@@ -46,7 +47,32 @@ to alter the appearance of the final document. I have chosen to use
 [[http://robjhyndman.com/hyndsight/xelatex/][XeLateX]] to generate the pdf file because it has better font handling
 than pdfLaTeX.
 
+There is a very preliminary version of the ePub book at: Text and
+pictures are all there. However, the
+formatting needs a lot of work!
+
 Ian Barton.
+
+** [2017-06-30 Fri] Preliminary ePub File
+This is still experimental. The text and pictures are all there, but
+ti needs a decent stylesheet to make it look good. I should also be
+able to convert it to a .mobi file, whcih will be readable on the Kindle.
+** [2017-06-30 Fri] Several bug fixes.
+I think that all the pictures are now in the correct orientation. In
+the original book several photos were in landscape format, but this
+doesn't look right on a screen, so all photos are now in portrait
+mode.
+
+I have fixed several errors in text formatting, particularly chapeters
+with verse and lots of quotations. It's not 100% perfect, but I am
+getting there!
+
+I think that I have managed to convert all quotation marks to "smart"
+quotes ie opening and closing quotes are now shown correctly.
+
+The one big task left is to correctly italicise the ext as per the
+original book. The conversion from WordPerfect  didn't carry over the
+italics formatting, so I am going through page by page to fix this.
 
 ** [2016-09-14 Wed] Work Started on the Web Version.
 You can see the web version at [[http://thecastle.github.io/thecastle][The Castle]]. This is in the early stages
@@ -82,24 +108,73 @@ If you have some new articles that you would like to be included in
 the book, please email them to me and I'll add them as an addendum
 Please note all contributions should be in plain text only!
 
+After discussing this with Andy Smith, we have decided to keep to the
+content of  the original book and not to add any initial content.
 * The Todo List.
 
-** TODO Optimize photo and graphic layout.
-
+** STARTED Optimize photo and graphic layout.
+:PROPERTIES:
+:LOG_INTO_DRAWER: t
+ :END:
+ :LOGBOOK:
+ - State "STARTED"    from "TODO"       [2017-06-30 Fri 15:16] \\
+   Mostly done. Just need the check I haven't missed anything.
+:END:
 ** TODO Edit articles to re-instate italics that didn't come over the the WordPerfect conversion.
+:PROPERTIES:
+:LOG_INTO_DRAWER: t
+ :END:
+:LOGBOOK:
+:END:
 
-** TODO Smart quotes.
+** STARTED Smart quotes.
+:PROPERTIES:
+:LOG_INTO_DRAWER: t
+ :END:
+:LOGBOOK:
+- State "STARTED"    from "TODO"       [2017-06-30 Fri 15:16] \\
+  I think this is complete, but need to check.
+:END:
 
 ** TODO Choose a decent font .
 
 ** TODO Fix Table of Contents so it looks better.
-
+:PROPERTIES:
+:LOG_INTO_DRAWER: t
+ :END:
 ** TODO Sort out frontmatter (intro, etc), backmatter and appendix.
-
+:PROPERTIES:
+:LOG_INTO_DRAWER: t
+ :END:
 ** TODO Create build script.
+:PROPERTIES:
+:LOG_INTO_DRAWER: t
+ :END:
+
 Should allow anyone with a vanilla copy of Emacs to regenerate the Tex
 and pdf files.
 
 ** TODO Start work on creating a Kindle book.
-
-** TODO Upload images.
+:PROPERTIES:
+:LOG_INTO_DRAWER: t
+ :END:
+** STARTED Upload images.
+:PROPERTIES:
+:LOG_INTO_DRAWER: t
+ :END:
+:LOGBOOK:
+- State "STARTED"    from "TODO"       [2017-06-30 Fri 15:20] \\
+  Uploaded, but need to check that I haven't missed any.
+:END:
+** TODO Italics!
+:PROPERTIES:
+:LOG_INTO_DRAWER: t
+ :END:
+** STARTED Create ePub version of the book.
+:PROPERTIES:
+:LOG_INTO_DRAWER: t
+ :END:
+:LOGBOOK:
+- State "STARTED"    from "TODO"       [2017-06-30 Fri 15:18] \\
+  Exported to ePub OK, but need to create a decent stylesheet.
+:END:
