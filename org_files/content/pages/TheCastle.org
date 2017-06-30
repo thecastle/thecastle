@@ -33,31 +33,29 @@
 :NOTES:
 This file sets the default LaTex options for creating the pdf file.
 All the individual chapter files are INCLUDED by this file
-Pictures to scan:
+* TODO Pictures to scan:
 - Devil's Slide
 - Lahul
-
-Fix:
+* TODO Fix:
 the Bhyunder Valley "The Valley of the Flowers" visited by
 Frank Smythe in
 1. We followed
+* TODO in Chapter 15: Figure 15.2: Nanda Devi from within the Sanctuary needs rotating.
+* TODO Check formatting in "Round Edale Walk or "Who Went Where and Who Said What?"".
+* TODO Rotate image of "Salt Cellar".
+* TODO Rotate image "Mt Blanc de Tacul".
+* TODO Formatting in "La Grande Epique de la Petite Dent de Veisivi".
+* TODO Rotate image "Chris Wright...".
+* TODO Rotate image "Summit of Ben Avon".
+* TODO Sets the default options for the chapter files.
+* TODO Eastern Edges Walk photo should be landscape.
+* TODO TWO WEEKS OLDER, YEARS WISER photo should be landscape.
+* TODO ROUTE MAJOR photo should be landscape.
+* TODO PRINCE CHARLIE'S CASTLE TRAMP - photo should be landscape.
+* TODO A Three Second Route - photo should be landscape.
+* TODO Grit Biter not formatted as verse
 
-in Chapter 15.
 
-Figure 15.2: Nanda Devi from within the Sanctuary needs rotating.
-
-Check formatting in "Round Edale Walk or "Who Went Where and Who Said
-What?"".
-
-Rotate image of "Salt Cellar".
-
-Rotate image "Mt Blanc de Tacul".
-
-Formatting in "La Grande Epique de la Petite Dent de Veisivi".
-
-Rotate image "Chris Wright...".
-
-Rotate image "Summit of Ben Avon".
 :END:
 
 #+INCLUDE: ./01_foreword.org
