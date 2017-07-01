@@ -208,6 +208,6 @@ to visit in the Garwhal Himalaya.
 #+NAME:
 [[file:.././images/Nanda_Devi_from_Rishi_Ganga.jpg]]
 
-#+CAPTION: Nanda Devi from_within the Sanctuary
+#+CAPTION: Nanda Devi from within the Sanctuary
 #+NAME:
 [[file:.././images/Nanda_Devi_from_within_the_Sanctuary.jpg]]
