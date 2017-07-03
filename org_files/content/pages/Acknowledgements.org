@@ -2,12 +2,14 @@
 #+SETUPFILE: ./setup.org
 #+TITLE: Acknowledgements.
 :END:
-
+* Acknowledgements.
 The Castle Mountaineering Club editors would like to thank the
 following people who have all contributed in one way or another to the
 production of this book. Our apologies are due to anyone whose name we
 may have inadvertently omitted.
 
+| Name           | Name           |
+|----------------+----------------|
 | E. Allen       | D. Kime        |
 | M. Allen       | T. Knight      |
 | M. Anderson    | C. Knowles     |
