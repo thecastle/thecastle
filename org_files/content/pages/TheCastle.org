@@ -26,6 +26,7 @@
 #+latex_header:     linkcolor=blue,
 #+latex_header:     urlcolor=black
 #+latex_header: }
+#+latex_header: \KOMAoptions{twoside=false}
 #+latex_header: \usepackage{adjustbox}
 
 :NOTES:
@@ -87,17 +88,53 @@ Frank Smythe in
 1. We followed
 ** TODO in Chapter 15: Figure 15.2: Nanda Devi from within the Sanctuary needs rotating.
 ** TODO Check formatting in "Round Edale Walk or "Who Went Where and Who Said What?"".
-** TODO Rotate image of "Salt Cellar".
-** TODO Rotate image "Mt Blanc de Tacul".
+** DONE Rotate image of "Salt Cellar".
+CLOSED: [2017-07-03 Mon 11:26]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2017-07-03 Mon 11:26]
+:END:
+** DONE Rotate image "Mt Blanc de Tacul".
+CLOSED: [2017-07-03 Mon 11:27]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2017-07-03 Mon 11:27]
+:END:
 ** TODO Formatting in "La Grande Epique de la Petite Dent de Veisivi".
-** TODO Rotate image "Chris Wright...".
-** TODO Rotate image "Summit of Ben Avon".
+** DONE Rotate image "Chris Wright...".
+CLOSED: [2017-07-03 Mon 11:27]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2017-07-03 Mon 11:27]
+:END:
+** DONE Rotate image "Summit of Ben Avon".
+CLOSED: [2017-07-03 Mon 11:27]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2017-07-03 Mon 11:27]
+:END:
 ** TODO Sets the default options for the chapter files.
-** TODO Eastern Edges Walk photo should be landscape.
-** TODO TWO WEEKS OLDER, YEARS WISER photo should be landscape.
-** TODO ROUTE MAJOR photo should be landscape.
-** TODO PRINCE CHARLIE'S CASTLE TRAMP - photo should be landscape.
-** TODO A Three Second Route - photo should be landscape.
+** DONE Eastern Edges Walk photo should be landscape.
+CLOSED: [2017-07-03 Mon 11:27]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2017-07-03 Mon 11:27]
+:END:
+** DONE TWO WEEKS OLDER, YEARS WISER photo should be landscape.
+CLOSED: [2017-07-03 Mon 11:27]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2017-07-03 Mon 11:27]
+:END:
+** DONE ROUTE MAJOR photo should be landscape.
+CLOSED: [2017-07-03 Mon 11:27]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2017-07-03 Mon 11:27]
+:END:
+** DONE PRINCE CHARLIE'S CASTLE TRAMP - photo should be landscape.
+CLOSED: [2017-07-03 Mon 11:27]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2017-07-03 Mon 11:27]
+:END:
+** DONE A Three Second Route - photo should be landscape.
+CLOSED: [2017-07-03 Mon 11:27]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2017-07-03 Mon 11:27]
+:END:
 ** TODO Grit Biter not formatted as verse
 ** TODO Latex Output.
 ** TODO Shrink Chronological List of  Officers to fit page.
