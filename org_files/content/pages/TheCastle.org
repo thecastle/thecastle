@@ -26,6 +26,7 @@
 #+latex_header:     linkcolor=blue,
 #+latex_header:     urlcolor=black
 #+latex_header: }
+#+latex_header: \usepackage{adjustbox}
 
 :NOTES:
 This file sets the default LaTex options for creating the pdf file.
@@ -100,6 +101,9 @@ Frank Smythe in
 ** TODO Grit Biter not formatted as verse
 ** TODO Latex Output.
 ** TODO Shrink Chronological List of  Officers to fit page.
+See:
+https://tex.stackexchange.com/questions/97505/shrink-table-to-fit-on-a-page-or-keep-it-as-it-is
+
 Export is using Section instead of Chapter for chapters.
 
 * List of Latex References.                                   :noexport:
