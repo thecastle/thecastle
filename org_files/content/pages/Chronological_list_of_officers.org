@@ -4,26 +4,30 @@
 :END:
 
 * Chronological List of Mountaineering Club Officers 1967-1988.
-
-| Year | President       | Vice-President | Treasurer      | Secretary       |
-| 1968 | Colin Mackie    | Ashley Turner  | Chris Taylor   | Alec Barclay    |
+#+LATEX: \tiny
+#+ATTR_LaTeX: align=rr
+| Year | President       | Vice-President  | Treasurer      | Secretary       |
+|------+-----------------+-----------------+----------------+-----------------|
+| 1968 | Colin Mackie    | Ashley Turner   | Chris Taylor   | Alec Barclay    |
 | 1969 | Ashley Turner   | Richard Bertram | Chris Taylor   | Alec Barclay    |
-| 1970 | Mike Anderson   | Terry Parker   | Chris Taylor   | Mike Jackson    |
-| 1971 | Terry Parker    | Alan Fowler    | Chris Taylor   | Mike Jackson    |
-| 1972 | Alan Fowler     |  Bryan Metcalf | Ashley Turner  | Mike Jackson    |
-| 1973 | Bryan Metcalf   |  Jim Frost     | Ashley Turner  | Mike Jackson    |
-| 1974 | Jim Frost       | Jack Ashcroft  | Ashley Turner  | Mike Jackson    |
-| 1975 | Jack Ashcroft   | Pat Peace      | Ashley Turner  | Alan Fowler     |
-| 1976 | Pat Peace       |Mike Jackson    | Ashley Turner  | Alan Fowler     |
-| 1977 | Mike Jackson    |Paul Goodlad    | Ronny Hindmoor | John Murton     |
-| 1978 | Paul Goodlad    |  Mary Peace    | Ronny Hindmoor | John Murton     |
-| 1979 | Mary Peace      | Pat Peace      | Ronny Hindmoor | John Murton     |
-| 1980 | Pat Peace       | Sean Jennings  | Ronny Hindmoor | John Murton     |
-| 1981 | Sean Jennings   |  Dave Kime     | Ronny Hindmoor | Jennifer Mellor |
+| 1970 | Mike Anderson   | Terry Parker    | Chris Taylor   | Mike Jackson    |
+| 1971 | Terry Parker    | Alan Fowler     | Chris Taylor   | Mike Jackson    |
+| 1972 | Alan Fowler     | Bryan Metcalf   | Ashley Turner  | Mike Jackson    |
+| 1973 | Bryan Metcalf   | Jim Frost       | Ashley Turner  | Mike Jackson    |
+| 1974 | Jim Frost       | Jack Ashcroft   | Ashley Turner  | Mike Jackson    |
+| 1975 | Jack Ashcroft   | Pat Peace       | Ashley Turner  | Alan Fowler     |
+| 1976 | Pat Peace       | Mike Jackson    | Ashley Turner  | Alan Fowler     |
+| 1977 | Mike Jackson    | Paul Goodlad    | Ronny Hindmoor | John Murton     |
+| 1978 | Paul Goodlad    | Mary Peace      | Ronny Hindmoor | John Murton     |
+| 1979 | Mary Peace      | Pat Peace       | Ronny Hindmoor | John Murton     |
+| 1980 | Pat Peace       | Sean Jennings   | Ronny Hindmoor | John Murton     |
+| 1981 | Sean Jennings   | Dave Kime       | Ronny Hindmoor | Jennifer Mellor |
 | 1982 | Dave Kime       | Charles Knowles | Ronny Hindmoor | Jennifer Mellor |
-| 1983 | Charles Knowles | Andy Smith     | Ian Lauriston  | Jennifer Mellor |
-| 1984 | Andy Smith      | Frank Mellor   | Ian Lauriston  | Jennifer Mellor |
-| 1985 | Frank Mellor    |Marian Birkett  | Ian Lauriston  | Andy Smith      |
-| 1986 | Marian Birkett  | John Barnard   | Dave Crowther  | Andy Smith      |
+| 1983 | Charles Knowles | Andy Smith      | Ian Lauriston  | Jennifer Mellor |
+| 1984 | Andy Smith      | Frank Mellor    | Ian Lauriston  | Jennifer Mellor |
+| 1985 | Frank Mellor    | Marian Birkett  | Ian Lauriston  | Andy Smith      |
+| 1986 | Marian Birkett  | John Barnard    | Dave Crowther  | Andy Smith      |
 | 1987 | John Barnard    | Dave Pendlebury | Dave Crowther  | Andy Smith      |
-| 1988 | Dave Pendlebury | Dave Crowther  | Rob Green      | Andy Smith      |
+| 1988 | Dave Pendlebury | Dave Crowther   | Rob Green      | Andy Smith      |
+
+#+LATEX: \normalsize
