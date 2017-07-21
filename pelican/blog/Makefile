@@ -49,7 +49,7 @@ regenerate: clean
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 serve:
-	cd $(OUTPUTDIR) && python -m SimpleHTTPServer 8100
+	cd $(OUTPUTDIR) && python -m http.server 8100
 
 devserver:
 	$(BASEDIR)/develop_server.sh restart
@@ -63,7 +63,7 @@ github: publish
 
 local:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONFLOCAL)
-	cd $(OUTPUTDIR) && python -m SimpleHTTPServer 8100
+	cd $(OUTPUTDIR) && python -m http.server 8100
 
 
 .PHONY: html help clean regenerate serve devserver publish github local
