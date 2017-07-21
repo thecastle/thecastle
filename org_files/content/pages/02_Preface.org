@@ -3,11 +3,6 @@
 #+TITLE: Preface.
 :END:
 
-:SETUP:
-#+SETUPFILE: ./setup.org
-#+TITLE: Preface.
-:END:
-
 * Preface
 #+latex: \author{ byThe Editors}
 
