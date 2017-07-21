@@ -3,6 +3,9 @@
 #+TITLE: Foreword.
 #+OPTIONS: title:nil
 :END:
+#+latex: \includepdf{/home/ian/Documents/emacs/thecastle/images/frontcover.pdf}
+#+latex: \setcounter{tocdepth}{2}
+#+latex: \tableofcontents
 
 * Foreword
 #+latex: \chapterauthor{Alf Gregory}
