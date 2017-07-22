@@ -10,7 +10,8 @@ BOOTSTRAP_THEME = 'readable'
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_SIDEBAR = True
-
+# PAGE_URL(‘pages/{slug}.html’)
+PAGE_DIR = ('pages')
 
 TIMEZONE = 'Europe/London'
 MARKUP = (('rst', 'md', 'yml'))
