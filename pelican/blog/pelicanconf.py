@@ -48,6 +48,7 @@ AUTHOR_FEED_RSS = None
 ARTICLE_URL = "posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/"
 ARTICLE_SAVE_AS = "posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html"
 
+CC_LICENSE = "CC-BY-NC-SA"
 
 GITHUB_URL = "https://github.com/thecastle"
 
