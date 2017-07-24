@@ -4,15 +4,18 @@
 AUTHOR = u"The Castle Mountaineering Club."
 SITENAME = u"The Castle Mountaineering Club."
 
-THEME = "../themes/pelican-bootstrap3"
-BOOTSTRAP_THEME = 'readable'
+# THEME = "../themes/pelican-bootstrap3"
+THEME = "/home/ian/pelican-themes/pelican-bootstrap3"
+#BOOTSTRAP_THEME = 'readable'
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_SIDEBAR = True
 DISPLAY_CATEGORIES_ON_SIDEBAR = False
 # PAGE_URL(‘pages/{slug}.html’)
-PAGE_DIR = ('pages')
+#PAGE_PATHS = ('pages')
+PAGES_SORT_ATTRIBUTE = 'filename'
 
 TIMEZONE = 'Europe/London'
 MARKUP = (('rst', 'md', 'yml'))
@@ -50,8 +53,8 @@ GITHUB_URL = "https://github.com/thecastle"
 
 
 PLUGIN_PATHS = ["/home/ian/src/pelican-plugins"]
-PLUGINS = ['summary', 'org_reader']
+PLUGINS = ['summary', 'org_reader', 'i18n_subsites']
 READERS = {'org': "org_reader"}
 ORG_READER_EMACS_LOCATION = '/usr/bin/emacs'
 
-IGNORE_FILES = ['.~', 'setup.org', 'LICENCE.org', 'TheCastle.org']
+IGNORE_FILES = ['.~', 'setup.org', 'LICENCE.org', 'TheCastle.org', 'List_of_Photographs.org', 'TheCastle_epub.org']
