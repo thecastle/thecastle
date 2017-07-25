@@ -127,6 +127,3 @@ the atmosphere of a thriving and friendly CMC has little changed.
 I hope that all newer members and older ones alike can look back,
 like me, after twenty years of CMC membership and enjoy as many
 wonderful memories and as many good friends.
-#+CAPTION: Dave Dunk on Marmoset Stanage Edge
-#+NAME:
-[[file:.././images/Dave_Dunk_on_Marmoset_Stanage_Edge.jpg]]
