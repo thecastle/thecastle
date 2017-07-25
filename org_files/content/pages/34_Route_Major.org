@@ -7,11 +7,9 @@
 #+latex: \chapterauthor{Ian Barton}
 
 
-#+begin_export html
-<p>
-<em>by Ian Barton</em>
-</p>
-#+end_export
+#+HTML: <p>
+#+HTML: <em>by Ian Barton</em>
+#+HTML: </p>
 
 The summer of 1986 was a good one in the Alps with a long
 period of settled weather early in the season. I was camping at

@@ -6,11 +6,9 @@
 ** The Clubroom Project
 #+latex: \chapterauthor{by Mike Anderson}
 
-#+begin_export html
-<p>
-<em>by Mike Anderson</em>
-</p>
-#+end_export
+ #+HTML: <p>
+ #+HTML: <em>by Mike Anderson</em>
+ #+HTML: </p>
 
 It was in early July 1969, after two years of frustrating
 and fruitless searching for a suitable clubroom, that Alec and

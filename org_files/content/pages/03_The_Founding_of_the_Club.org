@@ -7,11 +7,10 @@
 ** The Founding of the Club.
 #+latex: \author{by Mike Anderson}
 
-#+BEGIN_EXPORT html
-<p>
-<em>by Mike Anderson</em>
-</p>
-#+END_EXPORT
+ #+HTML: <p>
+ #+HTML: <em>by Mike Anderson</em>
+ #+HTML: </p>
+
 
 Langdale, 29th September 1967: torrential rain, the road flooded in
 several places, the campsite very much the same. Hardly an auspicious

@@ -7,11 +7,9 @@
 #+latex: \chapterauthor{Mike Doyle}
 
 
-#+begin_export html
-<p>
-<em>by Mike Doyle</em>
-</p>
-#+end_export
+#+HTML: <p>
+#+HTML: <em>by Mike Doyle</em>
+#+HTML: </p>
 
 Islands hold all sorts of fascinations although for some more than
 others and for me more than most. The Castle Mountaineering Club has a

@@ -7,11 +7,9 @@
 #+latex: \chapterauthor{Marian Birkett}
 
 
-#+begin_export html
-<p>
-<em>by Marian Birkett</em>
-</p>
-#+end_export
+#+HTML: <p>
+#+HTML: <em>by Marian Birkett</em>
+#+HTML: </p>
 
 A summer evening's gritstone climbing   what more could you
 ask for? Hilary and I walked up to the "Unconquerable" area of

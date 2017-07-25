@@ -7,11 +7,9 @@
 #+latex: \chapterauthor{Jack Ashcroft}
 
 
-#+begin_export html
-<p>
-<em>by Jack Ashcroft</em>
-</p>
-#+end_export
+#+HTML: <p>
+#+HTML: <em>by Jack Ashcroft</em>
+#+HTML: </p>
 
 An innocent enough walk around Edale.
 "You can't get lost up there," was the bar room atmosphere
