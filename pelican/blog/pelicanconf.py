@@ -16,6 +16,7 @@ DISPLAY_CATEGORIES_ON_SIDEBAR = False
 # PAGE_URL(‘pages/{slug}.html’)
 #PAGE_PATHS = ('pages')
 PAGES_SORT_ATTRIBUTE = 'filename'
+PAGE_TITLE=False
 
 TIMEZONE = 'Europe/London'
 MARKUP = (('rst', 'md', 'yml'))
