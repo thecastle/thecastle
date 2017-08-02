@@ -37,6 +37,7 @@ It should be possible to create the book in all the supported formats
 from the .tex and .html files.
 
 * Never Mind the Geek Stuff, I Just Want to Read the Book.
+
 The pdf version is available as [[https://drive.google.com/file/d/0B5zS0RKOunXLRmttSXFUc25SODA/view?usp=sharing]] . This is very much a
 work in progress and is regenerated every time the project is
 updated. At the moment I am just working on the first few chapters so
@@ -53,10 +54,13 @@ formatting needs a lot of work!
 
 Ian Barton.
 
+** [2017-08-02 Wed] Fix Some Problems with Web Version.
+Theme updated by upstream leading to various breakages. Most now
+fixed, but page list CSS needs some work.
 ** [2017-06-30 Fri] Preliminary ePub File
 This is still experimental. The text and pictures are all there, but
 ti needs a decent stylesheet to make it look good. I should also be
-able to convert it to a .mobi file, whcih will be readable on the Kindle.
+able to convert it to a .mobi file, which will be readable on the Kindle.
 ** [2017-06-30 Fri] Several bug fixes.
 I think that all the pictures are now in the correct orientation. In
 the original book several photos were in landscape format, but this
@@ -120,6 +124,10 @@ content of  the original book and not to add any initial content.
  - State "STARTED"    from "TODO"       [2017-06-30 Fri 15:16] \\
    Mostly done. Just need the check I haven't missed anything.
 :END:
+
+** TODO Fix Title appearing twice in Web pages.
+HTML export always exports #+TITLE, which is the same as the H1 for
+the article.
 ** TODO Edit articles to re-instate italics that didn't come over the the WordPerfect conversion.
 :PROPERTIES:
 :LOG_INTO_DRAWER: t
@@ -127,11 +135,13 @@ content of  the original book and not to add any initial content.
 :LOGBOOK:
 :END:
 
-** STARTED Smart quotes.
+** DONE Smart quotes.
 :PROPERTIES:
 :LOG_INTO_DRAWER: t
  :END:
 :LOGBOOK:
+- State "DONE"       from "STARTED"    [2017-08-02 Wed 12:10] \\
+  Smart quotes should now work.
 - State "STARTED"    from "TODO"       [2017-06-30 Fri 15:16] \\
   I think this is complete, but need to check.
 :END:
@@ -154,10 +164,14 @@ content of  the original book and not to add any initial content.
 Should allow anyone with a vanilla copy of Emacs to regenerate the Tex
 and pdf files.
 
-** TODO Start work on creating a Kindle book.
+** STARTED Start work on creating a Kindle book.
 :PROPERTIES:
 :LOG_INTO_DRAWER: t
  :END:
+:LOGBOOK:
+- State "STARTED"    from "TODO"       [2017-08-02 Wed 12:11] \\
+  Very beta version of ePub fie.
+:END:
 ** STARTED Upload images.
 :PROPERTIES:
 :LOG_INTO_DRAWER: t
