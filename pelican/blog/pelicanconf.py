@@ -6,6 +6,7 @@ SITENAME = u"The Castle Mountaineering Club."
 
 # THEME = "../themes/pelican-bootstrap3"
 THEME = "/home/ian/pelican-themes/pelican-bootstrap3"
+BOOTSTRAP_THEME='readable'
 #BOOTSTRAP_THEME = 'readable'
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 
