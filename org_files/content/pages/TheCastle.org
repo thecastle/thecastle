@@ -4,6 +4,7 @@
 #+DATE: [2015-10-24 Sat 10:38]
 #+SETUPFILE: ./setup.org
 #+TITLE: The Castle.
+#+PUBLISHER: The Castle Mountaineering Club.
 :END:
 
 #+latex_class: koma-book
@@ -77,6 +78,7 @@ All the individual chapter files are INCLUDED by this file
 #+INCLUDE: ./42_Some_Thoughts_on_Mountaineering.org
 #+INCLUDE: ./43_Chronological_list_of_officers.org
 #+INCLUDE: ./44_Acknowledgements.org
+#+INCLUDE: ./45_Licence.org
 
 * ToDo List. :noexport:
 ** TODO Pictures to scan:
@@ -87,7 +89,11 @@ the Bhyunder Valley "The Valley of the Flowers" visited by
 Frank Smythe in
 1. We followed
 ** TODO in Chapter 15: Figure 15.2: Nanda Devi from within the Sanctuary needs rotating.
-** TODO Check formatting in "Round Edale Walk or "Who Went Where and Who Said What?"".
+** DONE Check formatting in "Round Edale Walk or "Who Went Where and Who Said What?"".
+CLOSED: [2017-10-16 Mon 13:53]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2017-10-16 Mon 13:53]
+:END:
 ** DONE Rotate image of "Salt Cellar".
 CLOSED: [2017-07-03 Mon 11:26]
 :LOGBOOK:
@@ -102,6 +108,7 @@ CLOSED: [2017-07-03 Mon 11:27]
 ** DONE Rotate image "Chris Wright...".
 CLOSED: [2017-07-03 Mon 11:27]
 :LOGBOOK:
+- State "DONE"       from "DONE"       [2017-10-16 Mon 13:53]
 - State "DONE"       from "TODO"       [2017-07-03 Mon 11:27]
 :END:
 ** DONE Rotate image "Summit of Ben Avon".
@@ -109,25 +116,33 @@ CLOSED: [2017-07-03 Mon 11:27]
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2017-07-03 Mon 11:27]
 :END:
-** TODO Sets the default options for the chapter files.
+** DONE Sets the default options for the chapter files.
+CLOSED: [2017-10-16 Mon 13:53]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2017-10-16 Mon 13:53]
+:END:
 ** DONE Eastern Edges Walk photo should be landscape.
 CLOSED: [2017-07-03 Mon 11:27]
 :LOGBOOK:
+- State "DONE"       from "DONE"       [2017-10-16 Mon 13:52]
 - State "DONE"       from "TODO"       [2017-07-03 Mon 11:27]
 :END:
 ** DONE TWO WEEKS OLDER, YEARS WISER photo should be landscape.
 CLOSED: [2017-07-03 Mon 11:27]
 :LOGBOOK:
+- State "DONE"       from "DONE"       [2017-10-16 Mon 13:52]
 - State "DONE"       from "TODO"       [2017-07-03 Mon 11:27]
 :END:
 ** DONE ROUTE MAJOR photo should be landscape.
 CLOSED: [2017-07-03 Mon 11:27]
 :LOGBOOK:
+- State "DONE"       from "DONE"       [2017-10-16 Mon 13:52]
 - State "DONE"       from "TODO"       [2017-07-03 Mon 11:27]
 :END:
 ** DONE PRINCE CHARLIE'S CASTLE TRAMP - photo should be landscape.
 CLOSED: [2017-07-03 Mon 11:27]
 :LOGBOOK:
+- State "DONE"       from "DONE"       [2017-10-16 Mon 13:52]
 - State "DONE"       from "TODO"       [2017-07-03 Mon 11:27]
 :END:
 ** DONE A Three Second Route - photo should be landscape.
@@ -135,9 +150,21 @@ CLOSED: [2017-07-03 Mon 11:27]
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2017-07-03 Mon 11:27]
 :END:
-** TODO Grit Biter not formatted as verse
-** TODO Latex Output.
-** TODO Shrink Chronological List of  Officers to fit page.
+** DONE Grit Biter not formatted as verse
+CLOSED: [2017-10-16 Mon 13:52]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2017-10-16 Mon 13:52]
+:END:
+** DONE Latex Output.
+CLOSED: [2017-10-16 Mon 13:53]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2017-10-16 Mon 13:53]
+:END:
+** DONE Shrink Chronological List of  Officers to fit page.
+CLOSED: [2017-10-16 Mon 13:52]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2017-10-16 Mon 13:52]
+:END:
 See:
 https://tex.stackexchange.com/questions/97505/shrink-table-to-fit-on-a-page-or-keep-it-as-it-is
 
