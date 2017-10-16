@@ -25,9 +25,7 @@ DEFAULT_LANG = 'en'
 
 # Blogroll
 LINKS =  (('v-g Backpacking', 'http://v-g.me.uk/'),
-          ('Huw Gilbert Mountaineering', 'http://huwgilbert.blogspot.co.uk/'),
-          ('Glencoe Mountaineer', 'http://glencoemountaineer.blogspot.co.uk/'),
-          ('Footless Crow', 'http://http://footlesscrow.blogspot.co.uk/'),
+          ('Footless Crow', 'http://footlesscrow.blogspot.co.uk/'),
           ('Emacs org-mode', 'http://org-mode.org')
           ,)
 
