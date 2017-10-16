@@ -8,7 +8,12 @@
 #+latex: \tableofcontents
 
 * Foreword
-#+latex: \chapterauthor{Alf Gregory}
+#+latex: \author{by Alfred Gregory.}
+
+ #+HTML: <p>
+ #+HTML: <em>by Alfred Gregory.</em>
+ #+HTML: </p>
+
 The chapters in this book will bring back many personal memories and
 make us think of the great days we have spent in the hills, for most
 of us have had mountain adventures we shall never forget. These might
@@ -33,3 +38,5 @@ Mountaineering Club that the mountain life can be enjoyed to the
 full. The articles in this book prove that and show what a wonderful
 twenty one years it has been for this Club. The next twenty one should
 bring even more successful climbing and hill wandering.
+
+Alfred Gregory.
