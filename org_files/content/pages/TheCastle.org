@@ -70,7 +70,7 @@ All the individual chapter files are INCLUDED by this file
 #+INCLUDE: ./34_Route_Major.org
 #+INCLUDE: ./35_From_Toothbrush_to_Sledgehammer.org
 #+INCLUDE: ./36_Western_Gully,_Black_Ladders.org
-#+INCLUDE: ./37_Prince_Charlie's_Castle_Tramp.org
+#+INCLUDE: ./37_Prince_Charlies_Castle_Tramp.org
 #+INCLUDE: ./38_Three_Second_Route.org
 #+INCLUDE: ./39_The_Munros_a_Personal_Pilgrimage.org
 #+INCLUDE: ./40_Sentimental_Ramblings_of_an_Early_Club_Member.org
